@@ -92,6 +92,164 @@ https://d1211whpimeups.cloudfront.net/smil:rtb2/index.m3u8
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/index.m3u8
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="US LOC - CW PHILADELPHIA" tvg-logo="https://graffica.info/wp-content/uploads/2017/08/NBA-logo-png-download-free.png" group-title="US- LOCALS ",US LOC - CW PHILADELPHIA
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/17185
+#EXTINF:-1 tvg-id="" tvg-name="US LOC - CW" tvg-logo="https://a.espncdn.com/i/teamlogos/nfl/500/car.png" group-title="US- LOCALS ",US LOC - CW
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/18543
+#EXTINF:-1 tvg-id="" tvg-name="US LOC - FOX MIAMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/WSVN_7_Miami_logo.png" group-title="US- LOCALS ",US LOC - FOX MIAMI
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/18579
+#EXTINF:-1 tvg-id="" tvg-name="US LOC -  ABC MIAMI" tvg-logo="https://bocanewsnow.com/wp-content/uploads/2013/08/wplg.png" group-title="US- LOCALS ",US LOC -  ABC MIAMI
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/29078
+#EXTINF:-1 tvg-id="" tvg-name="US LOC - NBC MIAMI" tvg-logo="https://media.nbcmiami.com/2020/10/NBC_Florida.png?fit=1200%2C628" group-title="US- LOCALS ",US LOC - NBC MIAMI
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/30214
+#EXTINF:-1 tvg-id="" tvg-name="US LOC - CBS NEW YORK" tvg-logo="" group-title="US- LOCALS ",US LOC - CBS NEW YORK
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/43290
+#EXTINF:-1 tvg-id="" tvg-name="US.WC - CBS MIAMI" tvg-logo="https://img.particlenews.com/image.php?type=thumbnail_200x200&url=https%3A%2F%2Fi.prt.news%2F070b7b27291d5e4350be1562429786f6.png" group-title="US- LOCALS ",US.WC - CBS MIAMI
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/53075
+#EXTINF:-1 tvg-id="" tvg-name="US LOC - NBC NEW YORK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/1200px-WNBC_4_NY.svg.png" group-title="US- LOCALS ",US LOC - NBC NEW YORK
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/54580
+#EXTINF:-1 tvg-id="" tvg-name="US LOC  - ABC NEW YORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/76/Wabc_2013.png" group-title="US- LOCALS ",US LOC  - ABC NEW YORK
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/54581
+#EXTINF:-1 tvg-id="" tvg-name="US LOC - PBS NEW YORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/33/PBS_logo.svg/220px-PBS_logo.svg.png" group-title="US- LOCALS ",US LOC - PBS NEW YORK
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/55057
+#EXTINF:-1 tvg-id="" tvg-name="US LOC - FOX New York 256" tvg-logo="http://s3.amazonaws.com/lakana-fox-global/theme/images/wnyw/logo-fox-5-new-york-wnyw.png" group-title="US- LOCALS ",US LOC - FOX New York 256
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/55059
+#EXTINF:-1 tvg-id="" tvg-name="US LOC - CNN LIVE" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-Logo.png" group-title="US- LOCALS ",US LOC - CNN LIVE
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/56297
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="US.FM - FYI" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/ea/67/11/ea67113e-c196-a376-609d-f665159eab67/source/512x512bb.jpg" group-title="US - FILM & MOVIES",US.FM - FYI
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/3771
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="US.FM - USA NETWORK" tvg-logo="https://vignette2.wikia.nocookie.net/smurfs/images/0/0b/Usa_network_logo.jpg/revision/latest?cb=20140615125140" group-title="US - FILM & MOVIES",US.FM - USA NETWORK
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/3780
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="US.FM - HALLMARK DRAMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT62lCt7ulNggvBIJS2towMKHhyIuDK4OBfVg&usqp=CAU" group-title="US - FILM & MOVIES",US.FM - HALLMARK DRAMA
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/3781
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="US.FM - HALLMARK MOVIES & MISTERIES" tvg-logo="https://d2z1w4aiblvrwu.cloudfront.net/brand/oOF/oOF_large.png" group-title="US - FILM & MOVIES",US.FM - HALLMARK MOVIES & MISTERIES
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/3782
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="US.FM - VICELAND" tvg-logo="http://www.sbs.com.au/programs/sites/sbs.com.au.programs/files/styles/full/public/sbs_viceland_hd_black_1.jpg?itok=jGXUTPqP&mtime=1491540163" group-title="US - FILM & MOVIES",US.FM - VICELAND
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/3792
+#EXTINF:-1 tvg-id="192TVCE.ec" tvg-name="US.FM - HBO" tvg-logo="http://cdn.spoilertv.com/images/headers/hbo.jpg" group-title="US - FILM & MOVIES",US.FM - HBO
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/8210
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - HBO FAMILY" tvg-logo="http://images.mi.tv/channels/mx_hbo-family_m.png" group-title="US - FILM & MOVIES",US.FM - HBO FAMILY
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/8216
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - HBO 2" tvg-logo="http://images.mi.tv/channels/mx_hbo-2_m.png" group-title="US - FILM & MOVIES",US.FM - HBO 2
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/8222
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - LIFETIME MOVIES" tvg-logo="https://pbs.twimg.com/profile_images/884890131513126913/ZmrZn7Y4_400x400.jpg" group-title="US - FILM & MOVIES",US.FM - LIFETIME MOVIES
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/17175
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - BET" tvg-logo="http://news.bpmsupreme.com/wp-content/uploads/2017/06/BET.png" group-title="US - FILM & MOVIES",US.FM - BET
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/17416
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - CINEMAX MOVIEMAX" tvg-logo="https://tvbtn.files.wordpress.com/2013/03/ion-television-logo-new.jpg" group-title="US - FILM & MOVIES",US.FM - CINEMAX MOVIEMAX
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/17417
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - TNT" tvg-logo="https://i.pinimg.com/originals/2a/55/63/2a5563060a5c325845f0428c8b99945c.png" group-title="US - FILM & MOVIES",US.FM - TNT
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/18767
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - HBO COMEDY" tvg-logo="http://www.logotypes101.com/logos/842/722FA648C176AC694B93340552CC9A97/hbocomedy.png" group-title="US - FILM & MOVIES",US.FM - HBO COMEDY
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/18769
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - MOVIEPLEX" tvg-logo="https://sc.dish.com/shared/images/station-logos/MPLEX.png" group-title="US - FILM & MOVIES",US.FM - MOVIEPLEX
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/22374
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - SHOWCASE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Showtime%27s_Showcase_logo.svg/1000px-Showtime%27s_Showcase_logo.svg.png" group-title="US - FILM & MOVIES",US.FM - SHOWCASE
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/22380
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - HBO ZONE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="US - FILM & MOVIES",US.FM - HBO ZONE
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/22381
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - YES TV" tvg-logo="https://uploads-ssl.webflow.com/5b3e246651a97b4052760e33/5b3e2d63f5523c81d1d4f155_Yes%20TV%20logo%20GREEN.png" group-title="US - FILM & MOVIES",US.FM - YES TV
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/22382
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - I-SAT" tvg-logo="https://pbs.twimg.com/profile_images/704764031819771904/yl4O9YOo.jpg" group-title="US - FILM & MOVIES",US.FM - I-SAT
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/29342
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - HBO SIGNATURE" tvg-logo="https://i.imgur.com/XEd15.jpg" group-title="US - FILM & MOVIES",US.FM - HBO SIGNATURE
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/29345
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - FOX" tvg-logo="https://img2.freepng.es/20181122/pye/kisspng-logo-fox-channel-fox-networks-group-latin-america-5bf69ff4ca5908.8354122815428894608288.jpg" group-title="US - FILM & MOVIES",US.FM - FOX
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/29349
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - TBS" tvg-logo="https://tvseriesfinale.com/wp-content/uploads/2017/05/TBS-TV-Shows-Canceled-or-Renewed-534x400.png" group-title="US - FILM & MOVIES",US.FM - TBS
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/29353
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - CW MIAMI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/1200px-The_CW.svg.png" group-title="US - FILM & MOVIES",US.FM - CW MIAMI
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/38325
+#EXTINF:-1 tvg-id="" tvg-name="US.FM - BRAVO OP2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Bravo_TV_%282017_Logo%29.png" group-title="US - FILM & MOVIES",US.FM - BRAVO OP2
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/49279
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - HGTV" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f7/HGTV_logo_2015.png" group-title="US - ENTERTAINMENT",US.EN - HGTV
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/8340
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - TRU TV" tvg-logo="https://i.static.cdn.trutv.com/pictures/481000cc/trupal-images/2017-09/trutv-logo-1920x1080_50.jpg" group-title="US - ENTERTAINMENT",US.EN - TRU TV
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/17177
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - COMEDY CENTRAL" tvg-logo="https://pngimage.net/wp-content/uploads/2018/05/comedy-central-png-9.png" group-title="US - ENTERTAINMENT",US.EN - COMEDY CENTRAL
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/17178
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - DISCOVERY TURBO" tvg-logo="https://discovery-latam-prod.imgix.net/files/2018-12/TURBO-Logo-white_0.png" group-title="US - ENTERTAINMENT",US.EN - DISCOVERY TURBO
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/17179
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - FOOD NETWORK" tvg-logo="https://food.fnr.sndimg.com/content/dam/images/food/editorial/blog/legacy/fn-dish/2013/1/fnd_FN-New-Logo_s4x3_lead.jpg.rend.hgtvcom.616.462.suffix/1505046804671.jpeg" group-title="US - ENTERTAINMENT",US.EN - FOOD NETWORK
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/17413
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - DIY NETWORK" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/diy-network-696x392.jpg" group-title="US - ENTERTAINMENT",US.EN - DIY NETWORK
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/17414
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - VH1" tvg-logo="https://images.bwwstatic.com/columnpic10/680FA016731-F5FD-1009-9C68E7912D7AC1E6.jpg" group-title="US - ENTERTAINMENT",US.EN - VH1
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/17415
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - DISCOVERY VELOCITY" tvg-logo="https://images.hgmsites.net/med/velocity-tv-logo_100364023_m.jpg" group-title="US - ENTERTAINMENT",US.EN - DISCOVERY VELOCITY
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/22375
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - OUTDOOR CHANNEL" tvg-logo="https://cms.cignal.tv/Upload/Thumbnails/Outdoor-Channel-Thumbnail.png" group-title="US - ENTERTAINMENT",US.EN - OUTDOOR CHANNEL
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/22379
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - O.W.N (oprah winfrey network)" tvg-logo="http://meojobsonline.com/wp-content/uploads/2014/06/oprah_winfrey_network_logo_2010_a_l-300x225.jpg" group-title="US - ENTERTAINMENT",US.EN - O.W.N (oprah winfrey network)
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/22383
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - KNBC " tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/KNBC_NBC_4_logo.png" group-title="US - ENTERTAINMENT",US.EN - KNBC 
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/54118
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - CW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/The_CW.svg/225px-The_CW.svg.png" group-title="US - ENTERTAINMENT",US.EN - CW
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/55058
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - TV LAND" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/TV_Land_2015_logo.svg/1200px-TV_Land_2015_logo.svg.png" group-title="US - ENTERTAINMENT",US.EN - TV LAND
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/1080571
+#EXTINF:-1 tvg-id="" tvg-name="US.EN -TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/1024px-TNT_Logo_2016.svg.png" group-title="US - ENTERTAINMENT",US.EN -TNT
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/1080672
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="US.WC - HISTORY" tvg-logo="http://hugetv.org/wp-content/uploads/2016/03/history_channel.png" group-title="US - WORLD AND CULTURE",US.WC - HISTORY
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/3772
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="US.WC - NATGEO" tvg-logo="http://www.nationalgeographic.com/content/dam/magazine/Logos/national-geographic.jpg" group-title="US - WORLD AND CULTURE",US.WC - NATGEO
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/3773
+#EXTINF:-1 tvg-id="" tvg-name="US.WC - ABC" tvg-logo="https://www.sommerspc.com/wp-content/uploads/kisspng-american-broadcasting-company-freeform-logo-abc-ne-jingdong-broadcasting-co-5addbd44499e78.3240515415244813483016.jpg" group-title="US - WORLD AND CULTURE",US.WC - ABC
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/3788
+#EXTINF:-1 tvg-id="13C.cl" tvg-name="US.WC - THE WEATHER CHANNEL" tvg-logo="http://images4.fanpop.com/image/photos/24200000/The-Weather-Channel-the-weather-channel-24274274-362-313.jpg" group-title="US - WORLD AND CULTURE",US.WC - THE WEATHER CHANNEL
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/3790
+#EXTINF:-1 tvg-id="CNNEspanol.us" tvg-name="US.WC - CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/CNN_HD.svg/2000px-CNN_HD.svg.png" group-title="US - WORLD AND CULTURE",US.WC - CNN
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/3967
+#EXTINF:-1 tvg-id="BloombergTV.mx" tvg-name="US.WC - BLOOMBERG FHD" tvg-logo="http://www.talkingbiznews.com/wp-content/uploads/2011/10/Bloomberg-Television.jpg" group-title="US - WORLD AND CULTURE",US.WC - BLOOMBERG FHD
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/4089
+#EXTINF:-1 tvg-id="" tvg-name="US WC - FOX NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="US - WORLD AND CULTURE",US WC - FOX NEWS
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/8255
+#EXTINF:-1 tvg-id="" tvg-name="US WC -  DISCOVERY INVESTIGATION " tvg-logo="https://toppng.com/uploads/preview/discovery-channel-eps-logo-vector-free-11574131207yfq2asdbki.png" group-title="US - WORLD AND CULTURE",US WC -  DISCOVERY INVESTIGATION 
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/16134
+#EXTINF:-1 tvg-id="" tvg-name="US.WC - DISCOVERY SCIENCIE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f8/DiscoveryChannel%28India%29Logo.png/220px-DiscoveryChannel%28India%29Logo.png" group-title="US - WORLD AND CULTURE",US.WC - DISCOVERY SCIENCIE
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/18770
+#EXTINF:-1 tvg-id="" tvg-name="US.WC - ANIMAL PLANET" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-animal-planet-eas.jpg" group-title="US - WORLD AND CULTURE",US.WC - ANIMAL PLANET
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/18771
+#EXTINF:-1 tvg-id="" tvg-name="US.WC - DISCOVERY ID" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png" group-title="US - WORLD AND CULTURE",US.WC - DISCOVERY ID
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/22376
+#EXTINF:-1 tvg-id="" tvg-name="US.WC - TLC" tvg-logo="https://1.bp.blogspot.com/-0Thev8cRUrI/WjJy8iOD6fI/AAAAAAABLX0/uCeeKoggqksbw1p5btW6ENIBPXLEfZKnACLcBGAs/s1600/TLC.png" group-title="US - WORLD AND CULTURE",US.WC - TLC
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/29352
+#EXTINF:-1 tvg-id="" tvg-name="US.WC - MSNBC HD" tvg-logo="https://banner2.cleanpng.com/20180704/lpy/kisspng-television-channel-internet-radio-streaming-media-news-live-5b3ccddbc14c79.6392705715307115157918.jpg" group-title="US - WORLD AND CULTURE",US.WC - MSNBC HD
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/35310
+#EXTINF:-1 tvg-id="" tvg-name="US.WC - CBSN HD" tvg-logo="https://www.cordcuttersnews.com/wp-content/uploads/2019/10/CBS-Logo-Large-1024x612.png" group-title="US - WORLD AND CULTURE",US.WC - CBSN HD
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/44870
+#EXTINF:-1 tvg-id="" tvg-name="US.EN - TRAVEL CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/2018_Travel_Channel_logo.svg" group-title="US - ENTERTAINMENT",US.EN - TRAVEL CHANNEL
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/1117625
+#EXTINF:-1 tvg-id="" tvg-name="US.CH - PBS KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png" group-title="US - CHILDRENS",US.CH - PBS KIDS
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/22378
+#EXTINF:-1 tvg-id="" tvg-name="US.CH - DISNEY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="US - CHILDRENS",US.CH - DISNEY CHANNEL
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/29142
+#EXTINF:-1 tvg-id="" tvg-name="US.CH - DISNEY JR" tvg-logo="https://i.pinimg.com/originals/b2/b7/22/b2b72295281d514754baa8452788c800.png" group-title="US - CHILDRENS",US.CH - DISNEY JR
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/29143
+#EXTINF:-1 tvg-id="" tvg-name="US.CH - DISNEY XD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Disney_XD_-_2015_%28Purple%29.svg/792px-Disney_XD_-_2015_%28Purple%29.svg.png" group-title="US - CHILDRENS",US.CH - DISNEY XD
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/29144
+#EXTINF:-1 tvg-id="" tvg-name="US.CH - CARTOON NETWORK" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/53/Cartoon_Network_2004.png" group-title="US - CHILDRENS",US.CH - CARTOON NETWORK
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/29145
+#EXTINF:-1 tvg-id="" tvg-name="US.CH - NICK TOONS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/1280px-Nicktoons_Network_logo_2009.svg.png" group-title="US - CHILDRENS",US.CH - NICK TOONS
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/29146
+#EXTINF:-1 tvg-id="" tvg-name="US.CH - BOOMERANG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="US - CHILDRENS",US.CH - BOOMERANG
+http://tv.nousiptv.com:8080/Jomyson/jdu768862.PMnjs/29147
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="||AR.MBC|| MBC 1 FHD+" tvg-logo="" group-title="ARABES CHANNELS / قنوات عربيه",||AR.MBC|| MBC 1 FHD+
 http://obsfullhd.tv:25461/@Lucky_Luke_Restream/VUrdZq5a6Qt4/11039
 #EXTINF:-1 tvg-id="" tvg-name="||AR.MBC|| MBC 2 FHD+" tvg-logo="" group-title="ARABES CHANNELS / قنوات عربيه",||AR.MBC|| MBC 2 FHD+
