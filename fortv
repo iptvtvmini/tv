@@ -12,6 +12,9 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/index.m3u8?id=6
 #EXTINF:-1 tvg-id="TV.Okey.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/index.m3u8?id=3
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",RTM Word
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/index.m3u8
+
 #EXTINF:-1 tvg-id="Awesome.TV.my" tvg-name="Awesome TV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/433_144.png",Awesome TV
 
 #EXTINF:-1 tvg-id="TVSUKAN" tvg-name="Sukan RTM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/58_144.png" group-title="",Sukan RTM
@@ -28,6 +31,31 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=5
 
 #EXTINF:-1 tvg-id="Astro.Awani.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Roll
+https://d1sq2slp9afh7o.cloudfront.net/smil:roll/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Snap
+https://d1sq2slp9afh7o.cloudfront.net/smil:snap/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Apetito
+https://d1sq2slp9afh7o.cloudfront.net/smil:apetito/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Lead
+https://d1sq2slp9afh7o.cloudfront.net/smil:lead/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Aura
+https://d1sq2slp9afh7o.cloudfront.net/smil:aura/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Fitrah
+https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",JR
+https://d1sq2slp9afh7o.cloudfront.net/smil:jr/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Borak
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/index.m3u8?id=13669
+
 
 
 
