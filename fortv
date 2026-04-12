@@ -172,6 +172,9 @@ http://fortv.cc:8080/live/asharp/5points/136589.ts
 #EXTINF:-1 tvg-id="cnbc.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",CNBC
 http://fortv.cc:8080/live/asharp/5points/46687.ts
 
+#EXTINF:-1 tvg-id="cnbc.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",CNBC
+https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+
 #EXTINF:-1 tvg-id="nbc11ktvf.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 11
 http://fortv.cc:8080/live/asharp/5points/120635.ts
 
@@ -211,7 +214,13 @@ http://fortv.cc:8080/live/asharp/5points/20194.ts
 #EXTINF:-1 tvg-id="Bounce.TV.(Bounce).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bounce-us.png",Bounce TV
 #EXTINF:-1 tvg-id="Bravo.HDTV.(East).(BRAVOD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/bravo-us.png",Bravo
 #EXTINF:-1 tvg-id="Cine.Sony.Television.(CSONY).us" tvg-logo="https://docdog.top/Logotv/countries//cinesony.png",Cine Sony
+
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+
+#EXTINF:-1 tvg-id="Comet.us@SD",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
 
