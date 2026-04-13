@@ -297,6 +297,7 @@ http://fortv.cc:8080/live/dU0VBK/801942/46688.ts
 #EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",IndiePlex
 #EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RetroPlex
 #EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNet Movies
+
 #EXTINF:-1 tvg-id="sony.us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonymoviechannel.png",Sony Movie
 http://fortv.cc:8080/live/dU0VBK/801942/2214.ts
 
