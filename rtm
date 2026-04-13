@@ -33,6 +33,11 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 #EXTINF:-1 tvg-id="EuronewsEnglish.fr@SD",Euronews
 https://aegis-cloudfront-1.tubi.video/b1c4d439-03a5-4c40-ae9d-90a183e010c9/euronews-en.m3u8
 
+#EXTINF:-1 tvg-id="WION.in@SD",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8
+
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Roll
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/index.m3u8
 
@@ -54,6 +59,8 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",JR
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/index.m3u8
 
+#EXTINF:-1 tvg-id="Wanasah.ae@SD",Wanasah
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
 
 #EXTINF:-1 tvg-id="BBCKids.us@SD",BBC Kids
 https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
@@ -274,11 +281,31 @@ https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 #EXTINF:-1 tvg-id="MBCAmerica.us@SD",MBC
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 
+#EXTINF:-1 tvg-id="MBC1.ae@SD",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC4.ae@SD",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC5.ae@SD",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+
 #EXTINF:-1 tvg-id="MBCDramaUSA.us@SD",MBC Drama
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
 
 #EXTINF:-1 tvg-id="MBCMasrUSA.us@SD",MBC Masr
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="SonyPix.in@HD",Sony Pix
+http://103.229.254.25:7001/play/a0ed/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema
+http://103.157.248.140:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 tvg-id="MaxMovies.in@HD",Max Movies
+https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 
 
 
