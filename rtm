@@ -69,44 +69,19 @@ https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
 
 
-#EXTINF:-1 tvg-id="ABC.us@East",ABC
-http://41.205.93.154/ABC/index.m3u8
+
 
 #EXTINF:-1 tvg-id="KSTPTV51.us@HD",ABC 5
 https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="WJLATV71.us@HD",ABC 7
-https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="cnbc.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",CNBC
-https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
-
-#EXTINF:-1 tvg-id="",CNBC
-http://41.205.93.154/CNBC/index.m3u8
-
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD",Fox News Channel
-http://41.205.93.154/FOX-NEWS/index.m3u8
-
-#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD",FOX Live NOW
+#EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD",FOX news NOW
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="",MSNBC
-http://41.205.93.154/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us@SD",NBC News NOW
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 
 #EXTINF:-1 tvg-id="NBCNewsNOW.us@SD",NBC News Now 2
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-id="KSNV31.us@HD",NBC 3
-https://linear-708.frequency.stream/dist/stirr/708/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-id="WJAR101.us@HD",NBC 10
-https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
-
-#EXTINF:-1 tvg-id="NBCComedyVault.us@SD",NBC Comedy Vault
-https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="News12NewYork.us@SD",News 12
 https://jmp2.uk/plu-5fff49cfb5cd4f0007c2b0dc.m3u8
@@ -141,13 +116,11 @@ https://aegis-cloudfront-1.tubi.video/55c4e96c-e345-486c-8f61-8320b61d734d/playl
 #EXTINF:-1 tvg-id="GritXtra.us@SD",Grit Xtra
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
-
+#EXTINF:-1 tvg-id="NBCComedyVault.us@SD",NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-id="48Hours.us@US",48 Hours
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
-
-#EXTINF:-1 tvg-id="KBPXLD465.us@SD",Geb America
-https://edge1.lifestreamcdn.com/live/geb/playlist.m3u8
 
 #EXTINF:-1 tvg-id="",Investigation
 https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
@@ -159,9 +132,6 @@ https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports
 https://xumo-xumoent-vc-122-sjv70.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW
-https://jmp2.uk/plu-6549306c83595c000815a696.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD",NBC Sports NOW 2
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
@@ -272,12 +242,6 @@ https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="MBCAmerica.us@SD",MBC
 https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
 
@@ -298,14 +262,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac
 
 
 
-#EXTINF:-1 tvg-id="SonyPix.in@HD",Sony Pix
-http://103.229.254.25:7001/play/a0ed/index.m3u8
 
-#EXTINF:-1 tvg-id="ZeeCinema.in@HD",Zee Cinema
-http://103.157.248.140:8000/play/a00q/index.m3u8
 
-#EXTINF:-1 tvg-id="MaxMovies.in@HD",Max Movies
-https://live.maxtn.in/maxmovies/maxmovies/index.m3u8
 
 
 
