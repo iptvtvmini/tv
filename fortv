@@ -85,11 +85,16 @@ http://fortv.cc:8080/live/dU0VBK/801942/57299.ts
 
 #EXTINF:-1 tvg-id="Sportsnet.One.HDTV.(SN1HD).ca" tvg-logo="https://docdog.top/Logotv/countries//sportsnetone.png",Sportsnet One
 
-#EXTINF:-1 tvg-id="ESPN.HDTV.(Dish).(ESPNHD).us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png",ESPN
+#EXTINF:-1 tvg-id="espn.us" tvg-logo="https://docdog.top/Logotv/countries//espn1.png",ESPN
+http://fortv.cc:8080/live/dU0VBK/801942/9802.ts
 
-#EXTINF:-1 tvg-id="ESPN2.HDTV.(Dish).(ESPN2HD).us" tvg-logo="https://docdog.top/Logotv/countries//espn2.png",ESPN 2
+#EXTINF:-1 tvg-id="espn2.us" tvg-logo="https://docdog.top/Logotv/countries//espn2.png",ESPN 2
+http://fortv.cc:8080/live/dU0VBK/801942/2210.ts
 
 #EXTINF:-1 tvg-id="ESPNU.HDTV.(ESPNUHD).us" tvg-logo="https://docdog.top/Logotv/countries//espnu.png",ESPN U
+
+#EXTINF:-1 tvg-id="secnetwork.us" tvg-logo="",ESPN SEC Network
+http://fortv.cc:8080/live/dU0VBK/801942/17608.ts
 
 #EXTINF:-1 tvg-id="foxsports1.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-sports-1-us.png",Fox Sports 1
 http://fortv.cc:8080/live/dU0VBK/801942/1846.ts
@@ -100,6 +105,8 @@ http://fortv.cc:8080/live/dU0VBK/801942/1846.ts
 
 #EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-logo="",Sportsman Channel
 http://fortv.cc:8080/live/dU0VBK/801942/79913.ts
+
+
 
 #EXTINF:-1 tvg-id="tennischannel.us" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png",Tennis
 http://fortv.cc:8080/live/dU0VBK/801942/20184.ts
@@ -167,14 +174,17 @@ http://fortv.cc:8080/live/dU0VBK/801942/120655.ts
 #EXTINF:-1 tvg-id="foxnews.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox News 
 http://fortv.cc:8080/live/dU0VBK/801942/135794.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="",CSPAN
-http://fortv.cc:8080/live/dU0VBK/801942/136589.ts
+
 
 #EXTINF:-1 tvg-id="cnbc.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",CNBC
 http://fortv.cc:8080/live/dU0VBK/801942/46687.ts
 
-#EXTINF:-1 tvg-id="cnbc.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",CNBC
-https://stream.livenewsplay.com:9443/hls/cnbc/cnbcsd.m3u8
+#EXTINF:-1 tvg-id="cnbc.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",CNBC News
+http://fortv.cc:8080/live/dU0VBK/801942/9815.ts
+
+
+
+
 
 #EXTINF:-1 tvg-id="nbc11ktvf.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 11
 http://fortv.cc:8080/live/dU0VBK/801942/120635.ts
