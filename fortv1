@@ -257,14 +257,19 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/18366.ts
 #EXTINF:-1 tvg-id="grit.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png",Grit TV
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/20861.ts
 
-#EXTINF:-1 tvg-id="IFC.HDTV.(East).(IFCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
-#EXTINF:-1 tvg-id="Lifetime.Movies.HDTV.(East).(LIFEMOV).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Movies
+#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
+http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9272.ts
+
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Movies
+http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/20863.ts
+
 #EXTINF:-1 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Television
 
 #EXTINF:-1 tvg-id="metv.us" tvg-logo="https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png",MeTV
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/16149.ts
 
-#EXTINF:-1 tvg-id="PixL.HDTV.(PixLHD).us" tvg-logo="",PixL
+#EXTINF:-1 tvg-id="pixltv.us" tvg-logo="",PixL
+http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/21648.ts
 
 #EXTINF:-1 tvg-id="reelzchannel.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/reelz-us.png",Reelz
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/10526.ts
@@ -293,12 +298,25 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/10252.ts
 #EXTINF:-1 tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MOVIEMAX
 #EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMax
 #EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",ThrillerMax
-#EXTINF:-1 tvg-id="HBO.HDTV.(East).(HBOHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO
-#EXTINF:-1 tvg-id="HBO.2.HDTV.(East).(HBO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO 2
-#EXTINF:-1 tvg-id="HBO.Comedy.HDTV.(East).(HBOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbocomedy.png",HBO Comedy
+
+
+#EXTINF:-1 tvg-id="hbo.us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO
+http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/46713.ts
+
+#EXTINF:-1 tvg-id="hbo2.us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO 2
+http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9816.ts
+
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-logo="https://docdog.top/Logotv/countries//hbocomedy.png",HBO Comedy
+http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/17773.ts
+
 #EXTINF:-1 tvg-id="HBO.Family.HDTV.(East).(HBOFHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbofamily.png",HBO Family
-#EXTINF:-1 tvg-id="HBO.Signature.HDTV.(East).(HBOSHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png",HBO Signature
-#EXTINF:-1 tvg-id="HBO.Zone.HDTV.(East).(HBOZHD).us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png",HBO Zone
+
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-logo="https://docdog.top/Logotv/countries//hbosignature.png",HBO Signature
+http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9266.ts
+
+#EXTINF:-1 tvg-id="hbozone.us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png",HBO Zone
+http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9265.ts
+
 #EXTINF:-1 tvg-id="MGM.HDTV.(MGMHD).us" tvg-logo="https://docdog.top/Logotv/countries//mgm.png",MGM
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
 #EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-2-us.png",Epix 2
