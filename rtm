@@ -68,11 +68,35 @@ https://dmr1h4skdal9h.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="HappyKids.us@SD",HappyKids
 https://dil9xdvretp0f.cloudfront.net/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Kid TV
+https://jansonmedia-kidstv-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Kidpang TV
+https://newidco-kidspangtv-1-us.lg.wurl.tv/playlist.m3u8
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="",ABC 2 Portland
+https://linear-710.frequency.stream/dist/stirr/710/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",ABC 5 Boston
+https://aegis-cloudfront-1.tubi.video/c2e3094d-ad56-4c5f-9655-cd80df71fbab/playlist.m3u8
 
 #EXTINF:-1 tvg-id="KSTPTV51.us@HD",ABC 5
 https://amg01942-amg01942c2-stirr-us-10173.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",ABC 7 Denver
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+
+#EXTINF:-1 tvg-id="",ABC 7 Washington
+https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",ABC 15 Phonix
+https://aegis-cloudfront-1.tubi.video/e923f4ce-7229-4e01-a25e-d453993dab82/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="LiveNOWfromFOX.us@SD",FOX news NOW
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
@@ -119,7 +143,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tabl
 #EXTINF:-1 tvg-id="NBCComedyVault.us@SD",NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 
-
+#EXTINF:-1 tvg-id="",Vice TV
+https://vicetv-vicefast1-firetv.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="48Hours.us@US",48 Hours
@@ -131,7 +156,11 @@ https://amg00346-vizioono-investigation-xumo-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Crime Time
 https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="",History Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-historytime-lgus/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="",Jail
+https://langleyproductions-jail-1-us.lg.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="",FOX Sports
@@ -146,9 +175,6 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 tvg-id="GolfChannelLatinAmerica.us@SD",Golf Channel
 http://181.114.57.246:4000/play/BHGDIhvdyuw/index.m3u8
 
-#EXTINF:-1 tvg-id="PGATour.us@SD",PGA TOUR
-https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8
-
 #EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 
@@ -158,12 +184,45 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Strongman.us@UK",Strongman
 https://rightsboosterltd-scl-1-eu.rakuten.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="",Team USA
+https://amg01416-amg01416c4-firetv-us-4522.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",NBC sport now
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951253/hls/master.m3u8?ads.xumo_channelId=99951253&ads.asnw=169843&ads.afid=380753925&ads.sfid=19208128&ads.csid=xumo_[PLATFORM]_NBCUSports_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3929&ads.xumo_contentName=NBCUSports&ads.xumo_providerId=3929&ads.xumo_providerName=NBCUSports&ads.channelId=99951253&ads._fw_ifa_type=[IFA_TYPE]
+
+#EXTINF:-1 tvg-id="PGATour.us@SD",PGA TOUR
+https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8
+
+#EXTINF:-1 tvg-id="",#EXTINF:-1 tvg-id="",PGA Tour
+https://d1195tnygmyfvk.cloudfront.net/10000/99991281/hls/playlist.m3u8?ads.xumo_channelId=99991281&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=PGATour&ads.csid=xumo_[PLATFORM]_PGATour_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=211&ads.xumo_contentName=PGATour&ads.xumo_providerId=211&ads.xumo_providerName=PGATour&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991281&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
 
 
 
 
 #EXTINF:-1 tvg-id="HiYAH.us@SD",Hi-Yah
 https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HiYAH.us@SD",Hi-Yah
+https://dbrb49pjoymg4.cloudfront.net/10001/99991302/hls/playlist.m3u8?ads.xumo_channelId=99991302&ads.xumo_streamId=99991302&ads.channelId=99991302&ads.channelName=hiyah_us&ads.caid=hiyah&ads.csid=xumo_[PLATFORM]_hiyah_ssai&ads._fw_coppa=0&ads.xumo_contentId=236&ads.xumo_contentName=HiYah&ads.xumo_providerId=236&ads.xumo_providerName=HiYah&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads.genre=Movie,Movies,FF,Entertainment,Sport,Action,GV,Drama,GD&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Movie,Movies,FF,Entertainment,Sport,Action,GV,Drama,GD&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads.appName=XumoPlay
+
+#EXTINF:-1 tvg-id="",FilmRise
+https://dbrb49pjoymg4.cloudfront.net/10001/99991337/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991337&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=FilmRise&ads.csid=xumo_[PLATFORM]_FilmRise_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=Movie,Movies,FF,Entertainment,GV,Drama,GD&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=260&ads.xumo_contentName=FilmRise&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991337&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="",universal movies
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_[PLATFORM]_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=[IFA_TYPE]
+
+#EXTINF:-1 tvg-id="",MovieDome
+https://kochmedia-moviedome-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",MovieDome Family
+https://kochmedia-moviedomefamily-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",wedotv Movies
+https://movies4free-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",mytime movie network
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytime-lgus/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD",Paramount Movie
 https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
@@ -186,29 +245,9 @@ http://23.237.104.106:8080/USA_SHOWTIME/index.m3u8
 #EXTINF:-1 tvg-id="Starz.us@East",Starz
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
+#EXTINF:-1 tvg-id="",Action hollywood movie
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-
-
-#EXTINF:-1 tvg-id="",Alfred Hitchcock Presents
-https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-id="",America's Got Talent
-https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
-
-#EXTINF:-1 tvg-id="",Family Feud
-https://jmp2.uk/plu-672e4d915534bb0008c50168.m3u8
-
-#EXTINF:-1 tvg-id="ThePriceIsRight.us@HD",The Price Is Right
-https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
-
-#EXTINF:-1 tvg-id="MissionImpossible.us@SD",Mission Impossible
-https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
-
-#EXTINF:-1 tvg-id="",The Lone Ranger
-https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-id="PlutoTVTheTwilightZone.us@SD",The Twilight Zone
-https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
 
 #EXTINF:-1 tvg-id="",Western TV
 https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
@@ -216,7 +255,11 @@ https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
 #EXTINF:-1 tvg-id="",Cowboy Movie Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
 
+#EXTINF:-1 tvg-id="",70s cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 
+#EXTINF:-1 tvg-id="",80s rewind
+https://jmp2.uk/plu-5ca525b650be2571e3943c63.m3u8
 
 
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK",Rakuten Top Movies
@@ -246,11 +289,62 @@ https://sci-fi-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b74
 #EXTINF:-1 tvg-id="",Rakuten TV Thrillers
 https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6482/master.m3u8
 
+#EXTINF:-1 tvg-id="",Rakuten Viki
+https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="MBCAmerica.us@SD",MBC
-https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="",Deal or no deal
+https://dbrb49pjoymg4.cloudfront.net/10001/99991113/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991113&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=EndemolshineDealNoDeal&ads.csid=xumo_[PLATFORM]_EndemolshineDealNoDeal_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2041&ads.xumo_contentName=EndemolshineDealNoDeal&ads.xumo_providerId=2041&ads.xumo_providerName=EndemolshineDealNoDeal&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991113&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="",Family Feud
+https://dbrb49pjoymg4.cloudfront.net/10001/99991232/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991232&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=FamilyFeud&ads.csid=xumo_[PLATFORM]_FamilyFeud_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=170&ads.xumo_contentName=FamilyFeud&ads.xumo_providerId=170&ads.xumo_providerName=FamilyFeud&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991232&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="",Family Feud
+https://jmp2.uk/plu-672e4d915534bb0008c50168.m3u8
+
+#EXTINF:-1 tvg-id="",25 Word
+https://dbrb49pjoymg4.cloudfront.net/10001/99991659/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991659&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=GameShowAGoGo&ads.csid=xumo_[PLATFORM]_GameShowAGoGo_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2775&ads.xumo_contentName=GameShowAGoGo&ads.xumo_providerId=2775&ads.xumo_providerName=GameShowAGoGo&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991659&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="",American Got Talent
+https://dbrb49pjoymg4.cloudfront.net/10001/99951457/hls/master.m3u8?ads.xumo_channelId=99951457&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=FremantleAmericasGotTalent&ads.csid=xumo_[PLATFORM]_FremantleAmericasGotTalent_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4266&ads.xumo_contentName=FremantleAmericasGotTalent&ads.xumo_providerId=4266&ads.xumo_providerName=FremantleAmericasGotTalent&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951457&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="",America's Got Talent
+https://d1i40wgstaij6f.cloudfront.net/webvtt/v1/18584c3f3a2a4df8/88886062/master.m3u8
+
+#EXTINF:-1 tvg-id="",alfred hitchcock
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951256/hls/master.m3u8?ads.xumo_channelId=99951256&ads.asnw=169843&ads.afid=380740685&ads.sfid=19316482&ads.csid=xumo_[PLATFORM]_NBCUAlfredHitchcockPresents_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3937&ads.xumo_contentName=NBCUAlfredHitchcockPresents&ads.xumo_providerId=3937&ads.xumo_providerName=NBCUAlfredHitchcockPresents&ads.channelId=99951256&ads._fw_ifa_type=[IFA_TYPE]
+
+#EXTINF:-1 tvg-id="",Alfred Hitchcock Presents
+https://xumo-xumoent-ch825-ku23q.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="",just for laught gags
+https://dbrb49pjoymg4.cloudfront.net/10001/99991204/hls/master.m3u8?ads.xumo_channelId=99991204&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=JustForLaughsGags&ads.csid=xumo_[PLATFORM]_JustForLaughsGags_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=146&ads.xumo_contentName=JustForLaughsGags&ads.xumo_providerId=146&ads.xumo_providerName=JustForLaughsGags&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991204&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+
+#EXTINF:-1 tvg-id="ThePriceIsRight.us@HD",The Price Is Right
+https://jmp2.uk/plu-643f035d5a0cd50008361534.m3u8
+
+#EXTINF:-1 tvg-id="MissionImpossible.us@SD",Mission Impossible
+https://jmp2.uk/plu-5f77977bd924d80007eee60c.m3u8
+
+#EXTINF:-1 tvg-id="",The Lone Ranger
+https://xumo-xumoent-ch829-wojlf.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 tvg-id="PlutoTVTheTwilightZone.us@SD",The Twilight Zone
+https://jmp2.uk/plu-67352ed93a61d4000881f9fa.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="MBC1.ae@SD",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
@@ -267,6 +361,59 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff22
 #EXTINF:-1 tvg-id="MBCMasrUSA.us@SD",MBC Masr
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
 
+#EXTINF:-1 tvg-id="",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Al Arabiya English
+https://live.alarabiya.net/alarabiapublish/english/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="",Al Arabiya Publish
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Al Araby TV
+https://live.kwikmotion.com/alaraby1live/alaraby_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Al Araby TV2
+https://live.kwikmotion.com/alaraby2live/alaraby2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Al Ekhbariya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
+
+#EXTINF:-1 tvg-id="",Al Ghad TV
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+
+#EXTINF:-1 tvg-id="",Al Hadath
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+
+#EXTINF:-1 tvg-id="",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Al Jadeed
+http://185.9.2.18/chid_391/mono.m3u8
+
+#EXTINF:-1 tvg-id="",Al Jazeera
+https://live-hls-apps-aja-fa.getaj.net/AJA/01.m3u8
+
+#EXTINF:-1 tvg-id="",Al Jazeera English
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
+
+#EXTINF:-1 tvg-id="",Al Rayyan
+https://alrayyancdn.vidgyor.com/pub-noalrayy3pwz0l/liveabr/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="",Al Saudiya
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-saudi-tv/2ad66056b51fd8c1b624854623112e43/index.m3u8
+
+#EXTINF:-1 tvg-id="",Al Saudiya Alaan
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-ksa-now/71ed3aa814c643306c0a8bc4fcc7d17f/index.m3u8
+
+#EXTINF:-1 tvg-id="",Al Sharqiya Min Kabla
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Al Wilayah
+https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8
+
+#EXTINF:-1 tvg-id="",Al Wousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
 
 
 
