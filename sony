@@ -20,7 +20,7 @@ https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/index.m3u8
 https://d25tgymtnqzu8s.cloudfront.net/sukan/smil:sukan/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/58_144.png" group-title="",Sukan RTM +
-https://d25tgymtnqzu8s.cloudfront.net/live/media0/sukan/HLS/sukan-mp4a_128000_eng=4263252627.m3u8
+
 
 #EXTINF:-1 tvg-id="RTMK07" tvg-name="Dewan Rakyat" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",Parlimen Dewan Rakyat
 https://d25tgymtnqzu8s.cloudfront.net/smil:rakyat/index.m3u8?id=7
