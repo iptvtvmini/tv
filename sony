@@ -343,7 +343,7 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9265.ts
 #EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNet Movies
 
 #EXTINF:-1 tvg-id="sony.us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonymoviechannel.png",Sony Movie
-#http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/2214.ts
+http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/2214.ts
 
 #EXTINF:-1 tvg-id="The.Movie.Channel.HDTV.(East).(TMCHD).us" tvg-logo="",The Movie Channel
 #EXTINF:-1 tvg-id="The.Movie.Channel.Xtra.(East).(TMCXe).us" tvg-logo="",The Movie Channel Xtra
