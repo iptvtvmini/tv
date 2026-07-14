@@ -34,6 +34,8 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:berita/index.m3u8?id=5
 #EXTINF:-1 tvg-id="Astro.Awani.HD.my" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/436_144.png" group-title="",Astro Awani
 https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8
 
+
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",Roll
 https://d1sq2slp9afh7o.cloudfront.net/smil:roll/index.m3u8
 
@@ -113,8 +115,20 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/79913.ts
 #EXTINF:-1 tvg-id="tennischannel.us" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png",Tennis
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/20184.ts
 
+#EXTINF:-1 channel-id="c938a72f44eca56206b4b585ab01cad5" tvg-id="c938a72f44eca56206b4b585ab01cad5" tvg-chno="198" tvg-name="Tennis+" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c938a72f44eca56206b4b585ab01cad5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763502607268_MR-25-027Tennis_Plus_Roku_HUD_260x147px.png",Tennis+
+https://jmp2.uk/rok-c938a72f44eca56206b4b585ab01cad5.m3u8
+
+#EXTINF:-1 channel-id="0128b5f756acf1e1c488509fd76b0a61" tvg-id="0128b5f756acf1e1c488509fd76b0a61" tvg-chno="265" tvg-name="X Games TV" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0128b5f756acf1e1c488509fd76b0a61/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1758735344999_X_Games_TV_260x147_White.png",X Games TV
+https://jmp2.uk/rok-0128b5f756acf1e1c488509fd76b0a61.m3u8
+
+#EXTINF:-1 channel-id="0a1fae7f18a56923219beb5b34b098f3" tvg-id="0a1fae7f18a56923219beb5b34b098f3" tvg-chno="201" tvg-name="Yahoo! Sports Network" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/0a1fae7f18a56923219beb5b34b098f3/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1755563347829_YahooSportsNetwork_HUD_logo_260x147_centre_aligned.png",Yahoo! Sports Network
+https://jmp2.uk/rok-0a1fae7f18a56923219beb5b34b098f3.m3u8
+
+
+
 #EXTINF:-1 tvg-id="golfchannel.us" tvg-logo="https://docdog.top/Logotv/countries//nbcgolfchannel.png",Golf Channel
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9806.ts
+
 
 #EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png",WWE
 
@@ -139,6 +153,12 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/66783.ts
 #EXTINF:-1 tvg-id="tsn5.ca" tvg-logo="https://docdog.top/Logotv/countries//tsn5.png",TSN 5
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/57467.ts
 
+#EXTINF:-1 channel-id="62f1cd0d4c395a2a8ab72cff688666a0" tvg-id="62f1cd0d4c395a2a8ab72cff688666a0" tvg-chno="228" tvg-name="SPORTSGRID" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62f1cd0d4c395a2a8ab72cff688666a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1668537442136_ROKU-SPORTSGRID-LIVE-HUD-LOGO-EFEFEF.png",SPORTSGRID
+https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
+
+#EXTINF:-1 channel-id="51dea927355343df5a6f26545d07adc8" tvg-id="51dea927355343df5a6f26545d07adc8" tvg-chno="204" tvg-name="Swerve Women’s Sports" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/51dea927355343df5a6f26545d07adc8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1764599519489_Swerve_Womens_Sports_260x147_Info_HUD_Channel_Identifier.png",Swerve Sports
+https://jmp2.uk/rok-51dea927355343df5a6f26545d07adc8.m3u8
+
 
 
 #EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsaction.png",SkySport Action
@@ -155,48 +175,48 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/57467.ts
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/sky-sports-premier-league-uk.png",SkySport Primere League
 #EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skysportsracing.png",SkySport Racing
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC
-http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/22990.ts
+
+#EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/UE7AlcHTNh1JbA==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjlAAQ==",ABC News Live
+https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 
 #EXTINF:-1 tvg-id="abcwkrn.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC
-http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/136741.ts
 
 #EXTINF:-1 tvg-id="cbs5wfrv.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 5
-http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/135813.ts
 
-#EXTINF:-1 tvg-id="cbs5wkrg.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 5
-http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/120641.ts
-
+#EXTINF:-1 channel-id="8db0f9f4abf6542ba95f97a545f98513" tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-chno="142" tvg-name="CBC News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8db0f9f4abf6542ba95f97a545f98513/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731443569102_CBC-News-hosts_infohud-centered.png",CBC News
+https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
 
 #EXTINF:-1 tvg-id="CW.(WUPV).Richmond,.VA.us" tvg-logo="https://docdog.top/Logotv/countries//cw.png",CW 11
 
 #EXTINF:-1 tvg-id="fox11kttv.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 11
-http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/120655.ts
 
 #EXTINF:-1 tvg-id="foxnews.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox News 
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/135794.ts
 
+#EXTINF:-1 channel-id="5c8d77c2f6b85da3a7e74223b769ef5c" tvg-id="5c8d77c2f6b85da3a7e74223b769ef5c" tvg-chno="4202" tvg-name="KPTV FOX 12 Oregon News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5c8d77c2f6b85da3a7e74223b769ef5c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684345991989_KPTV_EPG%2526Hud_LogoKPTV_HUD_logo_260x147.png",FOX 12 Oregon News
+https://jmp2.uk/rok-5c8d77c2f6b85da3a7e74223b769ef5c.m3u8
 
+#EXTINF:-1 channel-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-id="f9c0d48b540a55dcb98b04d2cc8abf25" tvg-chno="120" tvg-name="LiveNOW from FOX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/f9c0d48b540a55dcb98b04d2cc8abf25/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1693442636429_1688568583363_177281_LiveNow-Monochromatic_Banner_Logo_260x147_001.png",LiveNOW from FOX
+https://jmp2.uk/rok-f9c0d48b540a55dcb98b04d2cc8abf25.m3u8
+
+#EXTINF:-1 channel-id="6abe7dcc96d5d834853c8d1c93d97230" tvg-id="6abe7dcc96d5d834853c8d1c93d97230" tvg-chno="4104" tvg-name="News 12 New York" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/6abe7dcc96d5d834853c8d1c93d97230/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1727118344457_N12NY_Roku_Info_HUD.png",News 12 New York
+https://jmp2.uk/rok-6abe7dcc96d5d834853c8d1c93d97230.m3u8
 
 #EXTINF:-1 tvg-id="cnbc.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",CNBC
-http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/46687.ts
 
 #EXTINF:-1 tvg-id="cnbc.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",CNBC News
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9815.ts
 
+#EXTINF:-1 channel-id="52ed4fc0c2635136b6ea44e2dc4a8a00" tvg-id="52ed4fc0c2635136b6ea44e2dc4a8a00" tvg-chno="145" tvg-name="CTV News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/52ed4fc0c2635136b6ea44e2dc4a8a00/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1720621983863_CTVNews_HUD_Logo_260x147.png",CTV News
+https://jmp2.uk/rok-52ed4fc0c2635136b6ea44e2dc4a8a00.m3u8
 
-
+#EXTINF:-1 channel-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-chno="141" tvg-name="Euronews World" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dafd06b712a35fbe9935d4c04c2e8b53/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1776110117061_Euronews_Info_HUD_Logo_EN.png",Euronews World
+https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 
 
 #EXTINF:-1 tvg-id="nbc11ktvf.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 11
-http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/120635.ts
-
 #EXTINF:-1 tvg-id="nbc12wxii.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 12
-http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/121133.ts
-
 #EXTINF:-1 tvg-id="nbc13wvtm.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 13
-http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/120639.ts
-
 #EXTINF:-1 tvg-id="PBS.(WNET).New.York,.NY.us" tvg-logo="https://docdog.top/Logotv/countries//pbskids.png",PBS
 
 #EXTINF:-1 tvg-id="ctvmontreal.ca" tvg-logo="https://docdog.top/Logotv/countries//ctvcalgary.png",CTV
@@ -207,6 +227,7 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/136612.ts
 
 #EXTINF:-1 tvg-id="ctvscifichannel.ca" tvg-logo="https://docdog.top/Logotv/countries/canada/ctv-sci-fi-channel-ca.png",CTV SCI-FI
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/57253.ts
+
 
 
 
@@ -229,14 +250,20 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/20194.ts
 #EXTINF:-1 tvg-id="Cine.Sony.Television.(CSONY).us" tvg-logo="https://docdog.top/Logotv/countries//cinesony.png",Cine Sony
 
 #EXTINF:-1 tvg-id="Comedy.Central.HDTV.(East).(CMDHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/comedy-central-us.png",Comedy Central
-http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
-
 
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.Canada.HDTV.(E!).ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E! (CA)
 #EXTINF:-1 tvg-id="E!.Entertainment.Television.HDTV.(East).(E!.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/e-entertainment-us.png",E!
 
 #EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png",Game Show Network
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/57430.ts
+
+#EXTINF:-1 tvg-id="673411" tvg-logo="https://canvas-lb.tubitv.com/opts/ZiXULUiKSeFNHQ==/6f7f3b3f-a050-4254-82eb-2c705dab77a6/CHgQeDoFMS4xLjlAAQ==",Game Show Central
+https://live-manifest.production-public.tubi.io/live/94afd871-77af-49a7-b040-10b1a9cbcddd/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id=="23427355f7f35851b75a210d7cca22a4" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/23427355f7f35851b75a210d7cca22a4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1683068649411_CNG_Roku_HUD_Center.png",Celebrity Name Game
+https://jmp2.uk/rok-23427355f7f35851b75a210d7cca22a4.m3u8
+
 
 #EXTINF:-1 tvg-id="",Deal or no deal
 https://dbrb49pjoymg4.cloudfront.net/10001/99991113/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991113&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=EndemolshineDealNoDeal&ads.csid=xumo_[PLATFORM]_EndemolshineDealNoDeal_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2041&ads.xumo_contentName=EndemolshineDealNoDeal&ads.xumo_providerId=2041&ads.xumo_providerName=EndemolshineDealNoDeal&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991113&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
@@ -247,7 +274,10 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991232/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-id="",25 Word
 https://dbrb49pjoymg4.cloudfront.net/10001/99991659/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991659&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=GameShowAGoGo&ads.csid=xumo_[PLATFORM]_GameShowAGoGo_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2775&ads.xumo_contentName=GameShowAGoGo&ads.xumo_providerId=2775&ads.xumo_providerName=GameShowAGoGo&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991659&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 
-#EXTINF:-1 tvg-id="",American Got Talent
+#EXTINF:-1 channel-id="3580b15015379c4256440b0e119d46ed" tvg-id="3580b15015379c4256440b0e119d46ed" tvg-chno="629" tvg-name="America's Got Talent" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3580b15015379c4256440b0e119d46ed/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775265472400_AGT_HUD_260x147_CenterAligned.png",America's Got Talent
+https://jmp2.uk/rok-3580b15015379c4256440b0e119d46ed.m3u8
+
+#EXTINF:-1 tvg-id="",American Got Talent 2
 https://dbrb49pjoymg4.cloudfront.net/10001/99951457/hls/master.m3u8?ads.xumo_channelId=99951457&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=FremantleAmericasGotTalent&ads.csid=xumo_[PLATFORM]_FremantleAmericasGotTalent_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4266&ads.xumo_contentName=FremantleAmericasGotTalent&ads.xumo_providerId=4266&ads.xumo_providerName=FremantleAmericasGotTalent&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951457&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 
 #EXTINF:-1 tvg-id="",just for laught gags
@@ -275,13 +305,22 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/18366.ts
 #EXTINF:-1 tvg-id="grit.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png",Grit TV
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/20861.ts
 
+#EXTINF:-1 tvg-id="684170" tvg-logo="https://canvas-lb.tubitv.com/opts/aBwIuhHsOE8fLQ==/9ba330f3-9b7c-436d-9eb3-ca24daeaa59a/CHgQeDoFMS4xLjlAAQ==",Grit Xtra
+https://live-manifest.production-public.tubi.io/live/e83c161c-4949-499b-b2b6-195337c7fd18/playlist.m3u8
+
+
+#EXTINF:-1 channel-id="c5a72a598a355db4b1781ca075280773" tvg-id="c5a72a598a355db4b1781ca075280773" tvg-chno="319" tvg-name="FilmRise Western" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5a72a598a355db4b1781ca075280773/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453694643_FilmRiseWestern_HUDlogo_260x147_copy.png",FilmRise Western
+https://jmp2.uk/rok-c5a72a598a355db4b1781ca075280773.m3u8
+
+#EXTINF:-1 channel-id="8346cc0f3d415e39875fca80b67fd951" tvg-id="8346cc0f3d415e39875fca80b67fd951" tvg-chno="320" tvg-name="Universal Westerns" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8346cc0f3d415e39875fca80b67fd951/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1701820121460_Universal-Western-ROKU-HUD-LOGO-260x147.png",Universal Westerns
+https://jmp2.uk/rok-8346cc0f3d415e39875fca80b67fd951.m3u8
+
+
 #EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9272.ts
 
 #EXTINF:-1 tvg-id="lifetimemovies.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Movies
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/20863.ts
-
-#EXTINF:-1 tvg-id="Lifetime.Television.HDTV.(East).(LIFEH).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Television
 
 #EXTINF:-1 tvg-id="metv.us" tvg-logo="https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png",MeTV
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/16149.ts
@@ -348,57 +387,42 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9265.ts
 #EXTINF:-1 tvg-id="sony.us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonymoviechannel.png",Sony Movie
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/2214.ts
 
-#EXTINF:-1 tvg-id="The.Movie.Channel.HDTV.(East).(TMCHD).us" tvg-logo="",The Movie Channel
-#EXTINF:-1 tvg-id="The.Movie.Channel.Xtra.(East).(TMCXe).us" tvg-logo="",The Movie Channel Xtra
-#EXTINF:-1 tvg-id="SCRNPIX.ScreenPix.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix
-#EXTINF:-1 tvg-id="SCRNVOI.ScreenPix.Voices.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Voices
-#EXTINF:-1 tvg-id="SCRNWST.ScreenPix.Westerns.us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",ScreenPix Westerns
-#EXTINF:-1 tvg-id="Showtime.HDTV.(East).(SHOHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime
-#EXTINF:-1 tvg-id="Showtime.2.HDTV.(East).(SHO2HD).us" tvg-logo="https://docdog.top/Logotv/countries//showtime.png",Showtime 2
-#EXTINF:-1 tvg-id="Showtime.Extreme.(East).(SHOXe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeextreme.png",Showtime Extreme
-#EXTINF:-1 tvg-id="Showtime.FamilyZone.(East).(SHOFe).us" tvg-logo="https://docdog.top/Logotv/countries//showtimefamilyzone.png",Showtime Family Zone
-#EXTINF:-1 tvg-id="Showtime.Next.East.HDTV.(East).(SHOND).us" tvg-logo="https://docdog.top/Logotv/countries//showtimenext.png",Showtime Next
-#EXTINF:-1 tvg-id="Showtime.Showcase.HDTV.(East).(SHOCHD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimeshowcase.png",Showtime Showcase
-#EXTINF:-1 tvg-id="Showtime.Women.HDTV.(East).(SHOWD).us" tvg-logo="https://docdog.top/Logotv/countries//showtimewomen.png",Showtime Women
-#EXTINF:-1 tvg-id="SHOxBET(East).(SHOBET).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",SHOxBET
-#EXTINF:-1 tvg-id="STARZ.HD.(East).(STZHD).us" tvg-logo="https://docdog.top/Logotv/countries//starz.png",STARZ
-#EXTINF:-1 tvg-id="STARZ.Cinema.(East).(STZCI).us" tvg-logo="https://docdog.top/Logotv/countries//starzcinema.png",STARZ Cinema
-#EXTINF:-1 tvg-id="STARZ.Comedy.HD.(East).(SZCHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzcomedy.png",STARZ Comedy
-#EXTINF:-1 tvg-id="STARZ.Edge.HD.(East).(SZEHD).us" tvg-logo="https://docdog.top/Logotv/countries//starzedge.png",STARZ Edge
-#EXTINF:-1 tvg-id="STARZ.InBlack.(East).(STZ.B).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-in-black-us.png",STARZ In Black
-#EXTINF:-1 tvg-id="STARZ.Kids.and.Family.HD.(East).(SZKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/starz-us.png",STARZ Kids and Family
-#EXTINF:-1 tvg-id="STARZ.ENCORE.HD.(East).(STZEH).us" tvg-logo="https://docdog.top/Logotv/countries//starzencore.png",STARZ ENCORE
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Action.(East).(STZAC).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreaction.png",STARZ ENCORE Action
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Black.(East).(STZBK).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreblack.png",STARZ ENCORE Black
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Classic.(East).(STZCL).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoreclassic.png",STARZ ENCORE Classic
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Family.(East).(STZFM).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorefamily.png",STARZ ENCORE Family
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Suspense.(East).(STZSU).us" tvg-logo="https://docdog.top/Logotv/countries//starzencoresuspense.png",STARZ ENCORE Suspense
-#EXTINF:-1 tvg-id="STARZ.ENCORE.Westerns.(East).(STZWS).us" tvg-logo="https://docdog.top/Logotv/countries//starzencorewestern.png",STARZ ENCORE Westerns
-#EXTINF:-1 tvg-id="Hallmark.Channel.HDTV.(East).(HALLHD).us" tvg-logo="",Hallmark.Channel.HDTV.(East).(HALLHD).us
-#EXTINF:-1 tvg-id="Hallmark.Drama.HDTV.(HALDRHD).us" tvg-logo="",Hallmark.Drama.HDTV.(HALDRHD).us
-#EXTINF:-1 tvg-id="Hallmark.Movies.and.Mysteries.HDTV.(HMMHD).us" tvg-logo="",Hallmark.Movies.and.Mysteries.HDTV.(HMMHD).us
-#EXTINF:-1 tvg-id="Hollywood.Suite.00s.us" tvg-logo="",Hollywood Suite 00s
-#EXTINF:-1 tvg-id="Hollywood.Suite.70s.us" tvg-logo="",Hollywood.Suite 70s
-#EXTINF:-1 tvg-id="Hollywood.Suite.80s.us" tvg-logo="",Hollywood.Suite 80s
-#EXTINF:-1 tvg-id="Hollywood.Suite.90s.us" tvg-logo="",Hollywood.Suite 90s
-#EXTINF:-1 tvg-id="Hollywood.Suite.On.Demand.us" tvg-logo="",Hollywood Suite On Demand
-
-
-#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Comedy
-#EXTINF:-1 tvg-id="Sky.Comedy.Cinema.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacomedy.png",Sky Cinema Comedy
-#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemacrime-thriller.png",Sky Crime
-#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Greats.png",Sky Greats
-#EXTINF:-1 tvg-id="SkyAnimationHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaanimation.png",Sky Animation
-#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-logo="https://watchindia.net/images/channels/english/Sky_Cinema_Family.png",Sky Family
-#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemapremiere.png",Sky Premiere
-#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemaaction.png",Sky Action
-#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemadrama.png",Sky Drama
-#EXTINF:-1 tvg-id="Sky.Cinema.Hits.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemahits.png",Sky Cinema Hits
-#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
-#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/skycinemasci.png",Sky Cinema ScFi
 
 #EXTINF:-1 tvg-id="HiYAH.us@SD",Hi-Yah
 https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="2deae9b4e83550f88f6776c45df08315" tvg-id="2deae9b4e83550f88f6776c45df08315" tvg-chno="290" tvg-name="Hi-YAH!" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2deae9b4e83550f88f6776c45df08315/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078606058_Hi-YAH_260x147.png",Hi-YAH!
+https://jmp2.uk/rok-2deae9b4e83550f88f6776c45df08315.m3u8
+
+#EXTINF:-1 channel-id="ed1ad60fa9a05f34bf5d4e8b09460d6b" tvg-id="ed1ad60fa9a05f34bf5d4e8b09460d6b" tvg-chno="393" tvg-name="About K-Content by CJ ENM" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ed1ad60fa9a05f34bf5d4e8b09460d6b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1665780149983_INFO_HUD_72dpi_copy.png",K-Content
+https://jmp2.uk/rok-ed1ad60fa9a05f34bf5d4e8b09460d6b.m3u8
+
+
+#EXTINF:-1 channel-id="108bd1c824eaca47592ec02c00f0a18a" tvg-id="108bd1c824eaca47592ec02c00f0a18a" tvg-chno="543" tvg-name="In The Heat of the Night" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/108bd1c824eaca47592ec02c00f0a18a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747839494339_InTheHeatOfTheNight_HUDLogo_Centered_260x147.png",In The Heat of the Night
+https://jmp2.uk/rok-108bd1c824eaca47592ec02c00f0a18a.m3u8
+
+#EXTINF:-1 channel-id="5263332f746c6b1bed25aa6c105a79d9" tvg-id="5263332f746c6b1bed25aa6c105a79d9" tvg-chno="295" tvg-name="MGM Presents" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5263332f746c6b1bed25aa6c105a79d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061592882_MGMPresents_HUDLogo_Centered_260x147.png",MGM Presents
+https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8
+
+#EXTINF:-1 channel-id="d32267711c6a5cf36520716c96b5b3fa" tvg-id="d32267711c6a5cf36520716c96b5b3fa" tvg-chno="305" tvg-name="Movie Hub" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d32267711c6a5cf36520716c96b5b3fa/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793656039_Movie_Hub_260x147.png",Movie Hub
+https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8
+
+#EXTINF:-1 channel-id="c5cbd4129753f5732d7160596440404f" tvg-id="c5cbd4129753f5732d7160596440404f" tvg-chno="282" tvg-name="Movie Hub Action" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5cbd4129753f5732d7160596440404f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793611093_Movie_Hub_Action_260x147.png",Movie Hub Action
+https://jmp2.uk/rok-c5cbd4129753f5732d7160596440404f.m3u8
+
+#EXTINF:-1 channel-id="a208207740dabd5e846e107b84db9123" tvg-id="a208207740dabd5e846e107b84db9123" tvg-chno="300" tvg-name="PopCorn Central" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a208207740dabd5e846e107b84db9123/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1778891092269_Info-HUD-channel-Identifier_260x147.png",PopCorn Central
+https://jmp2.uk/rok-a208207740dabd5e846e107b84db9123.m3u8
+
+
+#EXTINF:-1 tvg-id="673499" tvg-logo="https://canvas-lb.tubitv.com/opts/82sRW6C5W2iQ3w==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjlAAQ==",CINEVAULT
+https://live-manifest.production-public.tubi.io/live/15fe77d7-34df-4384-8180-8c30103139a4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="673500" tvg-logo="https://canvas-lb.tubitv.com/opts/yeukiWgw3Zn-lQ==/07448ddf-973b-4340-8779-32376a973248/CHgQeDoFMS4xLjlAAQ==",CINEVAULT: Classics
+https://live-manifest.production-public.tubi.io/live/bc5e92ba-e53c-460e-ad8d-28e31445abf9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="673498" tvg-logo="https://canvas-lb.tubitv.com/opts/1Kab-_4lb3EISw==/bda0dfca-9c16-4b67-8930-324a4b7a0dbd/CHgQeDoFMS4xLjlAAQ==" group-title="Movie Channels",CINEVAULT: Westerns
+https://live-manifest.production-public.tubi.io/live/d2895ecc-d556-481f-bc6f-db71b5366b40/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="",Cinevault Classics
 https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
@@ -408,6 +432,17 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 
 #EXTINF:-1 tvg-id="",Cowboy Movie Channel
 https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="7e202ec14b17515a8e732f662aec155d" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7e202ec14b17515a8e732f662aec155d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1687376542009_TheAsylum_260x147_copy.png",The Asylum
+https://jmp2.uk/rok-7e202ec14b17515a8e732f662aec155d.m3u8
+
+#EXTINF:-1 channel-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-chno="1034" tvg-name="FILMEX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e2a4ec82eb65f729ad7484337c0bcd4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744073738_FMXHD_HUD_WHITE.png",FILMEX
+https://jmp2.uk/rok-1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="RakutenTVTopMovies.es@UK",Rakuten Top Movies
 https://0145451975a64b35866170fd2e8fa486.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5987/master.m3u8
@@ -473,62 +508,19 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/121130.ts
 #EXTINF:-1 tvg-id="historychannel.us" tvg-logo="https://docdog.top/Logotv/countries//history.png",History
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/46724.ts
 
-#EXTINF:-1 tvg-id="History2.Canada.(H2).ca" tvg-logo="https://docdog.top/Logotv/countries/uk/history2.png",History 2
-#EXTINF:-1 tvg-id="DMAX.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/dmax.png",DMAX
-#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/history.png",Sky History
-#EXTINF:-1 tvg-id="SkyHistory2HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/history.png",Sky History 2
-#EXTINF:-1 tvg-id="HLN.HDTV.(HLNHD).us" tvg-logo="https://docdog.top/Logotv/countries//hln.png",HLN
-#EXTINF:-1 tvg-id="Great.American.Country.HDTV.(GACHD).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",Great American Country
-#EXTINF:-1 tvg-id="Great.American.Family.(GFAM).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",Great American Family
-#EXTINF:-1 tvg-id="Great.American.Living.(GLIV).us" tvg-logo="https://docdog.top/Logotv/countries//dumisa.png",Great American Living
-
-
-#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbcone.png",BBC 1
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc2.png",BBC 2
-#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc3.png",BBC 3
-#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/bbc4.png",BBC 4
-#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel4.png",Channel 4
-#EXTINF:-1 tvg-id="E4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/e4.png",E4
-#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/film4.png",Film 4
-#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/4seven.png",4 Seven
-#EXTINF:-1 tvg-id="More4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/more4.png",More 4
-#EXTINF:-1 tvg-id="Channel.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/channel5.png",Channel 5
-#EXTINF:-1 tvg-id="5SELECT.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5select.png",5 Select
-#EXTINF:-1 tvg-id="5STAR.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/5star.png",5 Star
-#EXTINF:-1 tvg-id="5.USA.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/usa.png",5 USA
-#EXTINF:-1 tvg-id="Challenge.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/challenge.png",Challenge
+#EXTINF:-1 tvg-id="a7a15769f0275c0ea9b2064b95637cfd" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a7a15769f0275c0ea9b2064b95637cfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1780318718470_MaydayAirDisaster_White_260x147.png",Mayday: Air Disaster
+https://jmp2.uk/rok-a7a15769f0275c0ea9b2064b95637cfd.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv1.png",ITV1
-#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv2.png",ITV2
-#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv3.png",ITV3
-#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itv4.png",ITV4
-#EXTINF:-1 tvg-id="ITVBe.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/itvbe.png",ITVBe
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Action Movies
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",BLOCKBUSTERS
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Comedy Movies
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CULT
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Animation Movies
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",GREATS
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",GREATS 2
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HITS
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",HORROR Movies
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",FAMILY Movies
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CRIME Movies
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SCIFI Movies
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",THRILLER Movies
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",SUPERHERO Movies
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",MYSTERY
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",PREMIERE
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",ROMANCE
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WESTERN
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",WAR Movies
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",CHiPs
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Bionic Woman
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Six Million Dollar Man
-#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/me-tv-us.png",Arnold Schwarzenegger
+
+
+
+
+
+
+
 
 
