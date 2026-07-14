@@ -371,6 +371,15 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9266.ts
 #EXTINF:-1 tvg-id="hbozone.us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png",HBO Zone
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9265.ts
 
+
+#EXTINF:-1 tvg-id="401" group-title="HBO Group" group-logo="" tvg-logo="https://iili.io/Ju79f8g.png",HBO
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+
+
+
 #EXTINF:-1 tvg-id="MGM.HDTV.(MGMHD).us" tvg-logo="https://docdog.top/Logotv/countries//mgm.png",MGM
 #EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
 #EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-2-us.png",Epix 2
