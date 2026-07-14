@@ -57,6 +57,17 @@ https://d1sq2slp9afh7o.cloudfront.net/smil:fitrah/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="",JR
 https://d1sq2slp9afh7o.cloudfront.net/smil:jr/index.m3u8
 
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png",Indonesiana
+https://tvstreamcast.com/indonesiana.m3u8
+
+#EXTINF:-1 tvg-id="HITS.id" tvg-logo="https://www.hitstv.com/assets/hits.png",Hits (V+)
+#EXTVLCOPT:http-referrer=https://m.visionplus.id
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
+
+
+
 
 
 
