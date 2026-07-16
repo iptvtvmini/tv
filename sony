@@ -114,6 +114,9 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/79913.ts
 #EXTINF:-1 tvg-id="tennischannel.us" tvg-logo="https://docdog.top/Logotv/countries//tennischannel.png",Tennis
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/20184.ts
 
+#EXTINF:-1 tvg-id="s" tvg-logo="",Tennis T2
+https://amg01444-amg01444c2-freelivesports-emea-11541.playouts.now.amagi.tv/ts-eu-w1-n2/playlist/amg01444-tennischannelfast-tennischannelus-freelivesportsemea/playlist.m3u8?channel_name=Tennis%20Channel%20T2&content_genre=Sport%2CTennis&ic=IAB17%2CIAB17-40&rating=G&language=US&provider=FreeLiveSports&us_privacy=[US_PRIVACY]&gdpr=[GDPR]&gdpr_consent=[CONSENT_STRING]&coppa=0&content_livestream=1&p=sportstribal&url=[REF]&lmt=[LAT]&did=[DEVICE_ID]
+
 #EXTINF:-1 channel-id="c938a72f44eca56206b4b585ab01cad5" tvg-id="c938a72f44eca56206b4b585ab01cad5" tvg-chno="198" tvg-name="Tennis+" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c938a72f44eca56206b4b585ab01cad5/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1763502607268_MR-25-027Tennis_Plus_Roku_HUD_260x147px.png",Tennis+
 https://jmp2.uk/rok-c938a72f44eca56206b4b585ab01cad5.m3u8
 
@@ -155,6 +158,9 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/57467.ts
 #EXTINF:-1 channel-id="62f1cd0d4c395a2a8ab72cff688666a0" tvg-id="62f1cd0d4c395a2a8ab72cff688666a0" tvg-chno="228" tvg-name="SPORTSGRID" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/62f1cd0d4c395a2a8ab72cff688666a0/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1668537442136_ROKU-SPORTSGRID-LIVE-HUD-LOGO-EFEFEF.png",SPORTSGRID
 https://jmp2.uk/rok-62f1cd0d4c395a2a8ab72cff688666a0.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="",SPORTSGRID Live
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-sportsgrid-vizio/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6Mjk1MTA5OTAzM30
+
 #EXTINF:-1 channel-id="51dea927355343df5a6f26545d07adc8" tvg-id="51dea927355343df5a6f26545d07adc8" tvg-chno="204" tvg-name="Swerve Women’s Sports" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/51dea927355343df5a6f26545d07adc8/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1764599519489_Swerve_Womens_Sports_260x147_Info_HUD_Channel_Identifier.png",Swerve Sports
 https://jmp2.uk/rok-51dea927355343df5a6f26545d07adc8.m3u8
 
@@ -180,6 +186,9 @@ https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2a
 
 #EXTINF:-1 tvg-id="abcwkrn.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/abc-us.png",ABC
 
+#EXTINF:-1 tvg-id="" tvg-logo="",Bloomberg
+https://b33828b5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfQmxvb21iZXJnT3JpZ2luYWxzLTFfSExT/playlist.m3u8?ads.wurl_channel=777&ads.wurl_name=BloombergOriginals&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.language=&ads.rating=&ads.ic=&ads.channel_name=&ads.content_producer_name=&ads.content_genre=&ads.client_section=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10018
+
 #EXTINF:-1 tvg-id="cbs5wfrv.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cbs-logo-white-us.png",CBS 5
 
 #EXTINF:-1 channel-id="8db0f9f4abf6542ba95f97a545f98513" tvg-id="8db0f9f4abf6542ba95f97a545f98513" tvg-chno="142" tvg-name="CBC News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8db0f9f4abf6542ba95f97a545f98513/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731443569102_CBC-News-hosts_infohud-centered.png",CBC News
@@ -189,7 +198,13 @@ https://jmp2.uk/rok-8db0f9f4abf6542ba95f97a545f98513.m3u8
 
 #EXTINF:-1 tvg-id="fox11kttv.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",FOX 11
 
-#EXTINF:-1 tvg-id="foxnews.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox News 
+#EXTINF:-1 tvg-id="" tvg-logo="",Fox LA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8?did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1Mn0
+
+#EXTINF:-1 tvg-id="" tvg-logo="",Fox 17
+https://amg01438-amg01438c37-vizio-us-10912.playouts.now.amagi.tv/playlist/amg01438-ewscrippscompany-ewscrippswxmi-vizious/playlist.m3u8?app_name=%7bAPP_NAME%7d&app_bundle=%7bAPP_BUNDLE%7d&app_store_url=%7bAPP_STORE_URL%7d&url=%7bDOMAIN%7d&ifa_type=%7bIFATYPE%7d&lmt=%7bLMT%7d&dnt=%7bDNT%7d&did=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&coppa=%7bCOPPA%7d&skip=%7bSKIPPABLE%7d&device_make=%7bDEVICE_MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&vizio_network_name=%7bVIZIO_NETWORK_NAME%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDczNTA3ODcyNn0
+
+#EXTINF:-1 tvg-id="foxnews.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fox-us.png",Fox News
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/135794.ts
 
 #EXTINF:-1 channel-id="5c8d77c2f6b85da3a7e74223b769ef5c" tvg-id="5c8d77c2f6b85da3a7e74223b769ef5c" tvg-chno="4202" tvg-name="KPTV FOX 12 Oregon News" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5c8d77c2f6b85da3a7e74223b769ef5c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1684345991989_KPTV_EPG%2526Hud_LogoKPTV_HUD_logo_260x147.png",FOX 12 Oregon News
@@ -212,6 +227,12 @@ https://jmp2.uk/rok-52ed4fc0c2635136b6ea44e2dc4a8a00.m3u8
 #EXTINF:-1 channel-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-id="dafd06b712a35fbe9935d4c04c2e8b53" tvg-chno="141" tvg-name="Euronews World" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/dafd06b712a35fbe9935d4c04c2e8b53/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1776110117061_Euronews_Info_HUD_Logo_EN.png",Euronews World
 https://jmp2.uk/rok-dafd06b712a35fbe9935d4c04c2e8b53.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="",Euronews Live
+https://euronews-live-eng-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6503-restreaming/bitok/eyJzdGlkIjoiZGVlMzIyNzgtMTc5Yi00MmE2LTllMmQtNTllZDg3YTNmNjg2IiwibWt0IjoidWsiLCJjaCI6NjUwMywicHRmIjo1fQ%3D%3D/live/eds/euronews-en/26031/euronews-en.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_name=RakutenTV&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.content_url=rakuten.tv&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_year=1970&ads.did=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.google_ad_manager_nonce=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.platform=web&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=12&ads.rtv_channel_id=6503&ads.rtv_channel_name=euronews-live-eng_uk&ads.rtv_content_id=6503&ads.rtv_content_language=en&ads.rtv_language=en&ads.rtvid=271858&ads.streaming_id=dee32278-179b-42a6-9e2d-59ed87a3f686&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&channel_id=6503&publishing_platform_id=5&tenant_identifier=rtv
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="",France 24
+https://amg00106-amg00106c1-rakuten-uk-4654.playouts.now.amagi.tv/playlist/amg00106-france24fast-france24-rakutenuk/playlist.m3u8?ads_amagi_channel_id=938&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB12&ads_content_genre=news&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_ip=185.164.139.44&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_prodq=1&ads_rating=7&ads_rtv_content_id=6281&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=578ef9e6-c213-4470-9fae-2c4b40a62449&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
 
 #EXTINF:-1 tvg-id="nbc11ktvf.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 11
 #EXTINF:-1 tvg-id="nbc12wxii.us" tvg-logo="https://docdog.top/Logotv/countries//nbcnewyork.png",NBC 12
@@ -273,14 +294,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991232/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-id="",25 Word
 https://dbrb49pjoymg4.cloudfront.net/10001/99991659/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991659&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=GameShowAGoGo&ads.csid=xumo_[PLATFORM]_GameShowAGoGo_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2775&ads.xumo_contentName=GameShowAGoGo&ads.xumo_providerId=2775&ads.xumo_providerName=GameShowAGoGo&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991659&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 
-#EXTINF:-1 channel-id="3580b15015379c4256440b0e119d46ed" tvg-id="3580b15015379c4256440b0e119d46ed" tvg-chno="629" tvg-name="America's Got Talent" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3580b15015379c4256440b0e119d46ed/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775265472400_AGT_HUD_260x147_CenterAligned.png",America's Got Talent
-https://jmp2.uk/rok-3580b15015379c4256440b0e119d46ed.m3u8
 
-#EXTINF:-1 tvg-id="",American Got Talent 2
-https://dbrb49pjoymg4.cloudfront.net/10001/99951457/hls/master.m3u8?ads.xumo_channelId=99951457&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=FremantleAmericasGotTalent&ads.csid=xumo_[PLATFORM]_FremantleAmericasGotTalent_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4266&ads.xumo_contentName=FremantleAmericasGotTalent&ads.xumo_providerId=4266&ads.xumo_providerName=FremantleAmericasGotTalent&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951457&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
-
-#EXTINF:-1 tvg-id="",just for laught gags
-https://dbrb49pjoymg4.cloudfront.net/10001/99991204/hls/master.m3u8?ads.xumo_channelId=99991204&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=JustForLaughsGags&ads.csid=xumo_[PLATFORM]_JustForLaughsGags_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=146&ads.xumo_contentName=JustForLaughsGags&ads.xumo_providerId=146&ads.xumo_providerName=JustForLaughsGags&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991204&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
@@ -301,25 +315,9 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/57429.ts
 #EXTINF:-1 tvg-id="gettv.us" tvg-logo="https://logodix.com/logo/1826254.png",GetTV 
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/18366.ts
 
-#EXTINF:-1 tvg-id="grit.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png",Grit TV
-http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/20861.ts
-
-#EXTINF:-1 tvg-id="684170" tvg-logo="https://canvas-lb.tubitv.com/opts/aBwIuhHsOE8fLQ==/9ba330f3-9b7c-436d-9eb3-ca24daeaa59a/CHgQeDoFMS4xLjlAAQ==",Grit Xtra
-https://live-manifest.production-public.tubi.io/live/e83c161c-4949-499b-b2b6-195337c7fd18/playlist.m3u8
-
-
-#EXTINF:-1 channel-id="c5a72a598a355db4b1781ca075280773" tvg-id="c5a72a598a355db4b1781ca075280773" tvg-chno="319" tvg-name="FilmRise Western" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5a72a598a355db4b1781ca075280773/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453694643_FilmRiseWestern_HUDlogo_260x147_copy.png",FilmRise Western
-https://jmp2.uk/rok-c5a72a598a355db4b1781ca075280773.m3u8
-
-#EXTINF:-1 channel-id="8346cc0f3d415e39875fca80b67fd951" tvg-id="8346cc0f3d415e39875fca80b67fd951" tvg-chno="320" tvg-name="Universal Westerns" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8346cc0f3d415e39875fca80b67fd951/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1701820121460_Universal-Western-ROKU-HUD-LOGO-260x147.png",Universal Westerns
-https://jmp2.uk/rok-8346cc0f3d415e39875fca80b67fd951.m3u8
-
 
 #EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/ifc-us.png",IFC
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9272.ts
-
-#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Movies
-http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/20863.ts
 
 #EXTINF:-1 tvg-id="metv.us" tvg-logo="https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png",MeTV
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/16149.ts
@@ -344,16 +342,133 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/10252.ts
 
 #EXTINF:-1 tvg-id="USTV.(USTV).us" tvg-logo="",USTV
 
+#EXTINF:-1 tvg-id="" tvg-logo="",Chaos on Cam
+https://amg00276-amg00276c25-vidaa-us-11221.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00276-aetelevisionnetworksfast-chaoscam-vidaaus/playlist.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10686
 
 
-#EXTINF:-1 tvg-id="5StarMAX.HD.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMAX
-#EXTINF:-1 tvg-id="Five.Star.Max.HDTV.(5MXHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cinemax-5-starmax-us.png",5StarMax
-#EXTINF:-1 tvg-id="Cinemax.HDTV.(East).(MAXHD).us" tvg-logo="https://docdog.top/Logotv/countries//cinemax.png",Cinemax
-#EXTINF:-1 tvg-id="ActionMAX.HDTV.(East).(AMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//actionmax.png",ActionMAX
-#EXTINF:-1 tvg-id="More.Max.(East).(MOMAX).us" tvg-logo="https://docdog.top/Logotv/countries//cinemaxmoremax.png",More Max
-#EXTINF:-1 tvg-id="MOVIEMAX.HDTV.(MMXHD).us" tvg-logo="https://docdog.top/Logotv/countries/turkey/movie-smart-fest-tr.png",MOVIEMAX
-#EXTINF:-1 tvg-id="OuterMax.east.us" tvg-logo="https://docdog.top/Logotv/countries//outermax.png",OuterMax
-#EXTINF:-1 tvg-id="ThrillerMAX.HDTV.(East).(TMXHD).us" tvg-logo="https://docdog.top/Logotv/countries//thrillermax.png",ThrillerMax
+#EXTINF:-1 tvg-id="HiYAH.us@SD",Hi-Yah
+https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
+
+#EXTINF:-1 channel-id="2deae9b4e83550f88f6776c45df08315" tvg-id="2deae9b4e83550f88f6776c45df08315" tvg-chno="290" tvg-name="Hi-YAH!" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2deae9b4e83550f88f6776c45df08315/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078606058_Hi-YAH_260x147.png",Hi-YAH!
+https://jmp2.uk/rok-2deae9b4e83550f88f6776c45df08315.m3u8
+
+#EXTINF:-1 channel-id="ed1ad60fa9a05f34bf5d4e8b09460d6b" tvg-id="ed1ad60fa9a05f34bf5d4e8b09460d6b" tvg-chno="393" tvg-name="About K-Content by CJ ENM" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ed1ad60fa9a05f34bf5d4e8b09460d6b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1665780149983_INFO_HUD_72dpi_copy.png",K-Content
+https://jmp2.uk/rok-ed1ad60fa9a05f34bf5d4e8b09460d6b.m3u8
+
+#EXTINF:-1 tvg-id="",K-Movies
+https://455bc5fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfTmV3S01vdmllc19ITFM/manifest.m3u8?ads.wurl_channel=2191&ads.wurl_name=NewKMovies&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.language=&ads.rating=&ads.ic=&ads.channel_name=&ads.content_producer_name=&ads.content_genre=&ads.client_section=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10910
+
+
+
+#EXTINF:-1 tvg-id="673499" tvg-logo="https://canvas-lb.tubitv.com/opts/82sRW6C5W2iQ3w==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjlAAQ==",CINEVAULT
+https://live-manifest.production-public.tubi.io/live/15fe77d7-34df-4384-8180-8c30103139a4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="673500" tvg-logo="https://canvas-lb.tubitv.com/opts/yeukiWgw3Zn-lQ==/07448ddf-973b-4340-8779-32376a973248/CHgQeDoFMS4xLjlAAQ==",CINEVAULT: Classics
+https://live-manifest.production-public.tubi.io/live/bc5e92ba-e53c-460e-ad8d-28e31445abf9/playlist.m3u8
+
+#EXTINF:-1 tvg-id="",Cinevault Classics 2
+https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="673498" tvg-logo="https://canvas-lb.tubitv.com/opts/1Kab-_4lb3EISw==/bda0dfca-9c16-4b67-8930-324a4b7a0dbd/CHgQeDoFMS4xLjlAAQ==",CINEVAULT: Westerns
+https://live-manifest.production-public.tubi.io/live/d2895ecc-d556-481f-bc6f-db71b5366b40/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="grit.us" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png",Grit TV
+http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/20861.ts
+
+#EXTINF:-1 tvg-id="684170" tvg-logo="https://canvas-lb.tubitv.com/opts/aBwIuhHsOE8fLQ==/9ba330f3-9b7c-436d-9eb3-ca24daeaa59a/CHgQeDoFMS4xLjlAAQ==",Grit Xtra
+https://live-manifest.production-public.tubi.io/live/e83c161c-4949-499b-b2b6-195337c7fd18/playlist.m3u8
+
+#EXTINF:-1 channel-id="c5a72a598a355db4b1781ca075280773" tvg-id="c5a72a598a355db4b1781ca075280773" tvg-chno="319" tvg-name="FilmRise Western" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5a72a598a355db4b1781ca075280773/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1673453694643_FilmRiseWestern_HUDlogo_260x147_copy.png",FilmRise Western
+https://jmp2.uk/rok-c5a72a598a355db4b1781ca075280773.m3u8
+
+#EXTINF:-1 tvg-id="",Cowboy Movie Channel
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="",MGM Western
+https://linear-1148.frequency.stream/dist/tcltv/1148/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
+
+#EXTINF:-1 channel-id="8346cc0f3d415e39875fca80b67fd951" tvg-id="8346cc0f3d415e39875fca80b67fd951" tvg-chno="320" tvg-name="Universal Westerns" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/8346cc0f3d415e39875fca80b67fd951/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1701820121460_Universal-Western-ROKU-HUD-LOGO-260x147.png",Universal Westerns
+https://jmp2.uk/rok-8346cc0f3d415e39875fca80b67fd951.m3u8
+
+
+#EXTINF:-1 tvg-id="",Western Film
+https://66f81a14eebd497482b26d30b7a5fe07.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-gb_GrjngoWesternMovies/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakutentv.web&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_categories=IAB1&ads.content_genre=western&ads.content_livestream=0&ads.device_lmt=0&ads.device_make=chrome&ads.device_model=GENERIC&ads.device_type=web&ads.device_year=1970&ads.env=prod&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.gdpr_consent=&ads.ifa_type=ppid&ads.inv_partner_domain=rakuten.tv&ads.ip=185.164.139.44&ads.market=uk&ads.network_name=RakutenTV&ads.nonce=&ads.os_language=&ads.placement=1&ads.player_height=1080&ads.player_width=1920&ads.pod_type=playerpage_midroll&ads.ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.prodq=1&ads.rating=15&ads.rtv_content_id=4496&ads.rtv_content_language=en&ads.rtvid=271858&ads.streaming_id=44f9fe1e-9ea7-4da7-acb1-45ea59cfb915&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel_id=1240
+
+#EXTINF:-1 tvg-id="",Western Movies
+https://4a1a17273dc04aa2bb362302205c0239.mediatailor.us-east-1.amazonaws.com/v1/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vidaa-us_GrjngoWesternMovies-1/playlist.m3u8?ads.wurl_channel=1690&ads.wurl_name=GrjngoWesternMovies-1&ads.coppa=0&ads.vidaa_ads_param=1190406319&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=7661
+
+#EXTINF:-1 tvg-id="",Free Western
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814536/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814536&ads.xumo_streamId=88814536&declaredCC1Language=en&ads.caid=XumoFreeWesterns&ads.csid=tcl2_us_xumofreewesterns_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Western&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeWesterns&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeWesterns&ads.xumo_channelName=XumoFreeWesterns&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+
+
+#EXTINF:-1 tvg-id="",Action hollywood movie
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="7e202ec14b17515a8e732f662aec155d" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7e202ec14b17515a8e732f662aec155d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1687376542009_TheAsylum_260x147_copy.png",The Asylum
+https://jmp2.uk/rok-7e202ec14b17515a8e732f662aec155d.m3u8
+
+#EXTINF:-1 channel-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-chno="1034" tvg-name="FILMEX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e2a4ec82eb65f729ad7484337c0bcd4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744073738_FMXHD_HUD_WHITE.png",FILMEX
+https://jmp2.uk/rok-1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
+
+#EXTINF:-1 channel-id="5263332f746c6b1bed25aa6c105a79d9" tvg-id="5263332f746c6b1bed25aa6c105a79d9" tvg-chno="295" tvg-name="MGM Presents" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5263332f746c6b1bed25aa6c105a79d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061592882_MGMPresents_HUDLogo_Centered_260x147.png",MGM Presents
+https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8
+
+#EXTINF:-1 channel-id="d32267711c6a5cf36520716c96b5b3fa" tvg-id="d32267711c6a5cf36520716c96b5b3fa" tvg-chno="305" tvg-name="Movie Hub" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d32267711c6a5cf36520716c96b5b3fa/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793656039_Movie_Hub_260x147.png",Movie Hub
+https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8
+
+#EXTINF:-1 channel-id="c5cbd4129753f5732d7160596440404f" tvg-id="c5cbd4129753f5732d7160596440404f" tvg-chno="282" tvg-name="Movie Hub Action" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5cbd4129753f5732d7160596440404f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793611093_Movie_Hub_Action_260x147.png",Movie Hub Action
+https://jmp2.uk/rok-c5cbd4129753f5732d7160596440404f.m3u8
+
+#EXTINF:-1 channel-id="a208207740dabd5e846e107b84db9123" tvg-id="a208207740dabd5e846e107b84db9123" tvg-chno="300" tvg-name="PopCorn Central" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a208207740dabd5e846e107b84db9123/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1778891092269_Info-HUD-channel-Identifier_260x147.png",PopCorn Central
+https://jmp2.uk/rok-a208207740dabd5e846e107b84db9123.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="",Miramax Movies
+https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8?ads.dnt=DNT&ads.ic=IC&ads.duration=DURATION&ads.app_bundle=APP_BUNDLE&ads.app_name=APP_NAME&ads.app_store_url=APP_STORE_URL&ads.device_id=DID&ads.device_make=DEVICE_MAKE&ads.device_model=DEVICE_MODEL&ads.brand_name=BRAND_NAME&ads.ifa_type=IFA_TYPE&ads.gdpr_consent=GDPR_CONSENT&ads.gdpr=GDPR&ads.us_privacy=US_PRIVACY&ads.coppa=COPPA&ads.lmt=LMT&ads.gpp_sid=GPP_SID&ads.gpp=GPP&ads.csid=CSID
+
+#EXTINF:-1 tvg-id="lifetimemovies.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Movies
+http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/20863.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/lifetime-us.png",Lifetime Movies Fav
+https://5ee29b66.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSG9saWRheU1vdmllRmF2b3JpdGVzYnlMaWZldGltZV9ITFM/playlist.m3u8?ads.wurl_channel=999&ads.wurl_name=HolidayMovieFavoritesbyLifetime&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzQ1NjY3OTAzMn0
+
+#EXTINF:-1 tvg-id="" tvg-logo="",Universal Action
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814617/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814617&ads.xumo_streamId=88814617&declaredCC1Language=en&ads.caid=NBCUUniversalAction&ads.csid=tcl2_us_nbcuuniversalaction_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.xumo_channelName=NBCUUniversalAction&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 tvg-id="" tvg-logo="",Universal Crime
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814613/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814613&ads.xumo_streamId=88814613&declaredCC1Language=en&ads.caid=NBCUUniversalCrime&ads.csid=tcl2_us_nbcuuniversalcrime_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Crime&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3939&ads.xumo_contentName=NBCUUniversalCrime&ads.xumo_providerId=3939&ads.xumo_providerName=NBCUUniversalCrime&ads.xumo_channelName=NBCUUniversalCrime&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+
+
+
+#EXTINF:-1 tvg-id="",AMC Thriller
+https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/playlist.m3u8?ads.wurl_channel=476&ads.wurl_name=RushByAMC&ads.coppa=0&ads.psid=%7bADID%7d&ads.targetopt=%7bTARGETOPT%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.ifa_type=%7bIFATYPE%7d&ads.lmt=%7bLMT%7d&ads.app_bundle=%7bAPP_BUNDLE%7d&ads.app_name=%7bAPP_NAME%7d&ads.app_store_url=%7bAPP_STORE_URL%7d&ads.url=%7bDOMAIN%7d&ads.w=%7bWIDTH%7d&ads.h=%7bHEIGHT%7d&ads.device_make=%7bDEVICE_MAKE%7d&ads.vizdartoken=eyJhdWQiOiI5OCIsIndmcGNpZCI6MzA3NDI3NTc0OH0
+
+#EXTINF:-1 tvg-id="",Filmrise Sci-Fi
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885513/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885513&ads.csid=viziowatchfree_us_filmrisescifi_ssai&ads.caid=FilmRiseSciFi&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=FilmRiseSciFi&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.channelId=88885513&ads.xumo_channelName=FilmRiseSciFi&ads._fw_content_programmer_brand=FilmRiseSciFi&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6MjkyMDk1NjY0M30
+
+#EXTINF:-1 tvg-id="",Filmrise Horror
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885514/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885514&ads.csid=viziowatchfree_us_filmrisehorror_ssai&ads.caid=FilmRiseHorror&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_coppa=0&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads._fw_h_x_country=US&ads.appName=%7bAPP_NAME%7d&ads.xumo_contentId=260&ads.xumo_contentName=FilmRiseHorror&ads.xumo_providerId=260&ads.xumo_providerName=FilmRise&ads.channelId=88885514&ads.xumo_channelName=FilmRiseHorror&ads._fw_content_programmer_brand=FilmRiseHorror&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6Mjk4NDk5NzEzOH0
+
+#EXTINF:-1 tvg-id="",Xumo Sci-Fi
+https://dbsmvzfksdzmk.cloudfront.net/10901/88885570/hls/master.m3u8?ads.xumo_channelId=88885570&ads.xumo_streamId=88885570&ads.channelId=88885570&ads.channelName=xumofreescifiandfantasymovies_us&ads.csid=viziowatchfree_us_xumofreescifiandfantasymovies_ssai&ads.caid=XumoFreeSciFiAndFantasy&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_h_x_country=US&ads.xumo_contentId=149&ads.xumo_contentName=XumoFreeSciFiAndFantasy&ads.xumo_providerId=149&ads.xumo_providerName=XumoFreeScifiAndFantasy&ads.xumo_channelName=XumoFreeSciFiAndFantasy&ads._fw_content_programmer_brand=XumoFreeSciFiAndFantasy&withResolution=true&ads.appVersion=%7bAPP_VERSION%7d&ads.amznappId=14911df5fe9f4df5a4ebfa1eb51d83eb&ads.amznslotId=b187c68c-9a6f-4d25-9a9c-b95b42d440af&ads.xumo_imdb_genre=Action&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads.appName=%7bAPP_NAME%7d&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6NDE4MjU1NDgzOX0
+
+#EXTINF:-1 tvg-id="",Xumo Thriller
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885594/hls/master.m3u8?ads.xumo_channelId=88885594&ads.xumo_streamId=88885594&ads.channelId=88885594&ads.channelName=xumofreehorrorandthrillermovies_us&ads.csid=viziowatchfree_us_xumofreehorrorandthrillermovies_ssai&ads.caid=XumoFreeHorrorAndThrillerMovies&ads._fw_coppa=0&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_h_x_country=US&ads.xumo_contentId=149&ads.xumo_contentName=XumoFreeHorrorAndThrillerMovies&ads.xumo_providerId=149&ads.xumo_providerName=XumoFreeHorrorAndThrillerMovies&ads.xumo_channelName=XumoFreeHorrorAndThrillerMovies&ads._fw_content_programmer_brand=XumoFreeHorrorAndThrillerMovies&withResolution=true&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.xumo_platform=viziowatchfree&ads._fw_player_width=%7bWIDTH%7d&ads._fw_player_height=%7bHEIGHT%7d&ads._fw_is_lat=%7bLMT%7d&ads._fw_us_privacy=%7bUSPRIVACY%7d&ads._fw_app_bundle=%7bAPP_BUNDLE%7d&ads._fw_deviceMake=%7bDEVICE_MAKE%7d&ads._fw_device_model=%7bDEVICE_MODEL%7d&ads._fw_devicetype=%7bDEVICE_TYPE%7d&ads.domain=%7bDOMAIN%7d&ads.gpp=%7bGPP%7d&ads.gpp_sid=%7bGPP_SID%7d&ads.appName=%7bAPP_NAME%7d&ads.xumo_adsystem=mediatailor&ads.tpcl=MIDROLL&ads.xumo_ifa=%7bADID%7d&ads.xumo_ifaType=%7bIFATYPE%7d&ads._fw_app_store_url=%7bAPP_STORE_URL%7d&ads.appVersion=%7bAPP_VERSION%7d&ads.vizdartoken=eyJhdWQiOiI5NiIsIndmcGNpZCI6NDcyNjk5MjE4NX0
+
+#EXTINF:-1 tvg-id="",Free Movies
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814534/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814534&ads.xumo_streamId=88814534&declaredCC1Language=en&ads.caid=XumoFreeMovies&ads.csid=tcl2_us_xumofreemovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action%252CAdventure%252CComedy%252CCrime%252CDrama%252CFamily%252CFantasy%252CHorror%252CMystery%252CRomance%252CSci-Fi%252CThriller%252CWar%252CWestern%252CSuperhero&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeMovies&ads.xumo_channelName=XumoFreeMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 tvg-id="",Free Action Movies
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814531/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814531&ads.xumo_streamId=88814531&declaredCC1Language=en&ads.caid=XumoFreeActionMovies&ads.csid=tcl2_us_xumofreeactionmovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeActionMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeActionMovies&ads.xumo_channelName=XumoFreeActionMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 tvg-id="",Free Comedy Movies
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814527/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814527&ads.xumo_streamId=88814527&declaredCC1Language=en&ads.caid=XumoFreeComedyMovies&ads.csid=tcl2_us_xumofreecomedymovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Comedy&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeComedyMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeComedyMovies&ads.xumo_channelName=XumoFreeComedyMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+
+
 
 
 #EXTINF:-1 tvg-id="hbo.us" tvg-logo="https://docdog.top/Logotv/countries//hbo.png",HBO
@@ -373,75 +488,8 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9266.ts
 #EXTINF:-1 tvg-id="hbozone.us" tvg-logo="https://docdog.top/Logotv/countries//hbozone.png",HBO Zone
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9265.ts
 
-
-
-
-
-#EXTINF:-1 tvg-id="MGM.HDTV.(MGMHD).us" tvg-logo="https://docdog.top/Logotv/countries//mgm.png",MGM
-#EXTINF:-1 tvg-id="MGM+.HDTV.(East).(MGM+HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix
-#EXTINF:-1 tvg-id="MGM+.Marquee.HDTV.(East).(MGM+MRQ).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-2-us.png",Epix 2
-#EXTINF:-1 tvg-id="MGM+.Drive-In.(MGM+DI).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-drive-in-us.png",Epix Drive-In
-#EXTINF:-1 tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/epix-us.png",Epix Hits
-#EXTINF:-1 tvg-id="MoviePlex.East.(MPLEX).us" tvg-logo="https://docdog.top/Logotv/countries//movieplex.png",MoviePlex
-#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-logo="https://docdog.top/Logotv/countries//indieplex.png",IndiePlex
-#EXTINF:-1 tvg-id="RetroPlex.HDTV.(RETROHD).us" tvg-logo="https://docdog.top/Logotv/countries//retroplex.png",RetroPlex
-#EXTINF:-1 tvg-id="HDNet.Movies.(HDNTM).us" tvg-logo="https://docdog.top/Logotv/countries//hdnetmovies.png",HDNet Movies
-
 #EXTINF:-1 tvg-id="sony.us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonymoviechannel.png",Sony Movie
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/2214.ts
-
-
-#EXTINF:-1 tvg-id="HiYAH.us@SD",Hi-Yah
-https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
-
-#EXTINF:-1 channel-id="2deae9b4e83550f88f6776c45df08315" tvg-id="2deae9b4e83550f88f6776c45df08315" tvg-chno="290" tvg-name="Hi-YAH!" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2deae9b4e83550f88f6776c45df08315/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078606058_Hi-YAH_260x147.png",Hi-YAH!
-https://jmp2.uk/rok-2deae9b4e83550f88f6776c45df08315.m3u8
-
-#EXTINF:-1 channel-id="ed1ad60fa9a05f34bf5d4e8b09460d6b" tvg-id="ed1ad60fa9a05f34bf5d4e8b09460d6b" tvg-chno="393" tvg-name="About K-Content by CJ ENM" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ed1ad60fa9a05f34bf5d4e8b09460d6b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1665780149983_INFO_HUD_72dpi_copy.png",K-Content
-https://jmp2.uk/rok-ed1ad60fa9a05f34bf5d4e8b09460d6b.m3u8
-
-
-#EXTINF:-1 channel-id="108bd1c824eaca47592ec02c00f0a18a" tvg-id="108bd1c824eaca47592ec02c00f0a18a" tvg-chno="543" tvg-name="In The Heat of the Night" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/108bd1c824eaca47592ec02c00f0a18a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747839494339_InTheHeatOfTheNight_HUDLogo_Centered_260x147.png",In The Heat of the Night
-https://jmp2.uk/rok-108bd1c824eaca47592ec02c00f0a18a.m3u8
-
-#EXTINF:-1 channel-id="5263332f746c6b1bed25aa6c105a79d9" tvg-id="5263332f746c6b1bed25aa6c105a79d9" tvg-chno="295" tvg-name="MGM Presents" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/5263332f746c6b1bed25aa6c105a79d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061592882_MGMPresents_HUDLogo_Centered_260x147.png",MGM Presents
-https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8
-
-#EXTINF:-1 channel-id="d32267711c6a5cf36520716c96b5b3fa" tvg-id="d32267711c6a5cf36520716c96b5b3fa" tvg-chno="305" tvg-name="Movie Hub" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/d32267711c6a5cf36520716c96b5b3fa/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793656039_Movie_Hub_260x147.png",Movie Hub
-https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8
-
-#EXTINF:-1 channel-id="c5cbd4129753f5732d7160596440404f" tvg-id="c5cbd4129753f5732d7160596440404f" tvg-chno="282" tvg-name="Movie Hub Action" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/c5cbd4129753f5732d7160596440404f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793611093_Movie_Hub_Action_260x147.png",Movie Hub Action
-https://jmp2.uk/rok-c5cbd4129753f5732d7160596440404f.m3u8
-
-#EXTINF:-1 channel-id="a208207740dabd5e846e107b84db9123" tvg-id="a208207740dabd5e846e107b84db9123" tvg-chno="300" tvg-name="PopCorn Central" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a208207740dabd5e846e107b84db9123/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1778891092269_Info-HUD-channel-Identifier_260x147.png",PopCorn Central
-https://jmp2.uk/rok-a208207740dabd5e846e107b84db9123.m3u8
-
-
-#EXTINF:-1 tvg-id="673499" tvg-logo="https://canvas-lb.tubitv.com/opts/82sRW6C5W2iQ3w==/a5324ff4-3c3b-472f-b6e3-10d6e6e479c6/CHgQeDoFMS4xLjlAAQ==",CINEVAULT
-https://live-manifest.production-public.tubi.io/live/15fe77d7-34df-4384-8180-8c30103139a4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="673500" tvg-logo="https://canvas-lb.tubitv.com/opts/yeukiWgw3Zn-lQ==/07448ddf-973b-4340-8779-32376a973248/CHgQeDoFMS4xLjlAAQ==",CINEVAULT: Classics
-https://live-manifest.production-public.tubi.io/live/bc5e92ba-e53c-460e-ad8d-28e31445abf9/playlist.m3u8
-
-#EXTINF:-1 tvg-id="673498" tvg-logo="https://canvas-lb.tubitv.com/opts/1Kab-_4lb3EISw==/bda0dfca-9c16-4b67-8930-324a4b7a0dbd/CHgQeDoFMS4xLjlAAQ==",CINEVAULT: Westerns
-https://live-manifest.production-public.tubi.io/live/d2895ecc-d556-481f-bc6f-db71b5366b40/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="",Cinevault Classics
-https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="",Action hollywood movie
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-
-#EXTINF:-1 tvg-id="",Cowboy Movie Channel
-https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/master.m3u8
-
-#EXTINF:-1 tvg-id="7e202ec14b17515a8e732f662aec155d" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/7e202ec14b17515a8e732f662aec155d/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1687376542009_TheAsylum_260x147_copy.png",The Asylum
-https://jmp2.uk/rok-7e202ec14b17515a8e732f662aec155d.m3u8
-
-#EXTINF:-1 channel-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-id="1e2a4ec82eb65f729ad7484337c0bcd4" tvg-chno="1034" tvg-name="FILMEX" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/1e2a4ec82eb65f729ad7484337c0bcd4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1659744073738_FMXHD_HUD_WHITE.png",FILMEX
-https://jmp2.uk/rok-1e2a4ec82eb65f729ad7484337c0bcd4.m3u8
-
 
 
 
@@ -477,8 +525,52 @@ https://thriller-rakuten-tv-uk.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b
 #EXTINF:-1 tvg-id="",Rakuten Viki
 https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="",Rakuten Viki US
+https://f7178a01312d4c388fe6afbc9f8bf557.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vidaa-us_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=8541
 
 
+
+
+
+
+#EXTINF:-1 tvg-id="",Live Action
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8?ads_amagi_channel_id=975&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=comedy&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_ip=185.164.139.44&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_prodq=1&ads_rating=0&ads_rtv_content_id=6504&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=5d5fe2e7-7aa9-4f0d-997d-a6c6cfb6d18b&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+#EXTINF:-1 tvg-id="",Bionic Women
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=action%2Csci-fi&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=0&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=nbcubionicwoman&ads.content_livestream=0&ads.csid=zeus_uk_nbcubionicwoman_ssai&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=7600&ads.rakuten_streaming_id=1df9e582-b4cc-456d-9097-ab43db011bfd&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883141&ads.xumo_channel_id=88883141&ads.xumo_contentId=3913&ads.xumo_contentName=NBCUUK&ads.xumo_ifa=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.xumo_ifaType=ppid&ads.xumo_providerId=3913&ads.xumo_providerName=nbc-bionic-woman-eng-rakutentv&ads.xumo_streamId=88883141
+
+#EXTINF:-1 tvg-id="",Six Million Dollar Man
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=699ad4efd0773ee7ea092a2c&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=Action&AV_CONTENT_CAT=IAB1-7&AV_CONTENT_RATING=TV-14&AV_CLIENT_SECTION=UNIVERSAL%20CITY%20STUDIOS%20%C2%A0PRODUCTIONS%20LLP_The%20Six%20Million%20Dollar%20Man&content_channel_name=The%20Six%20Million%20Dollar%20Man&content_livestream=1&AV_CONTENT_PROVIDER=UNIVERSAL%20CITY%20STUDIOS%20%C2%A0PRODUCTIONS%20LLP&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10205
+
+#EXTINF:-1 tvg-id="",Incredible Hulk
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=[CACHEBUSTER]&AV_WIDTH=[ADS.W]&AV_HEIGHT=[ADS.H]&AV_APPNAME=[ADS.APP_NAME]&AV_APPSTOREURL=[ADS.APP_STORE_URL]&AV_APPPKGNAME=[ADS.APP_BUNDLE]&AV_IDFA=[ADS.IFA]&AV_IFA_TYPE=[ADS.IFA_TYPE]&AV_CCPA=[ADS.US_PRIVACY]&AV_GDPR=[ADS.GDPR]&AV_CONSENT=[ADS.GDPR_CONSENT]&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=[ADS.VIDAA_ADS_CONTENTID]&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=[ADS.VAUTH]&AV_DNT=[ADS.DNT]&Content_Id=[ADS.ADS_CONTENTID]&AV_LANGUAGE=[ADS.DEVICE_LANGUAGE]&AV_RTB_DEVICE_TYPE=[ADS.DEVICE_TYPE]&AV_OSVERS=[ADS.DEVICE_OSV]&AVS_SSAIID=699ad477571e244cc20dea86&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=Action&AV_CONTENT_CAT=IAB1-7&AV_CONTENT_RATING=TV-14&AV_CLIENT_SECTION=UNIVERSAL%20CITY%20STUDIOS%20%C2%A0PRODUCTIONS%20LLP_The%20Incredible%20Hulk&content_channel_name=The%20Incredible%20Hulk&content_livestream=1&AV_CONTENT_PROVIDER=UNIVERSAL%20CITY%20STUDIOS%20%C2%A0PRODUCTIONS%20LLP&ads.vidaa_ads_param=1188362017&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10192
+
+#EXTINF:-1 tvg-id="",Highway to Heaven
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads._fw_app_bundle=com.rakutentv.web&ads._fw_app_store_url=rakuten.tv&ads._fw_content_category=IAB1&ads._fw_content_genre=action&ads._fw_content_language=en&ads._fw_content_rating=tv-14&ads._fw_deviceMake=chrome&ads._fw_device_model=GENERIC&ads._fw_devicetype=3-connected_tv&ads._fw_gdpr=1&ads._fw_gdpr_consent=&ads._fw_is_lat=0&ads._ifa_type=ppid&ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.appName=RakutenTV&ads.app_version=&ads.brand_name=&ads.caid=HighwaytoHeavenUK&ads.content_livestream=0&ads.csid=zeus_eu_highwaytoheavenuk_ssai&ads.extra_eids=&ads.gam_correlator=283910008697892&ads.google_ad_manager_nonce=&ads.inv_partner_domain=rakuten.tv&ads.network_name=RakutenTV&ads.os_language=&ads.placement=1&ads.prodq=1&ads.rakuten_content_type=live_channels&ads.rakuten_device_type=web&ads.rakuten_device_year=1970&ads.rakuten_env=prod&ads.rakuten_market=uk&ads.rakuten_pod_type=playerpage_midroll&ads.rakuten_rtv_content_id=6344&ads.rakuten_streaming_id=1e4afe31-8440-4cb3-884c-27fd59f6fa94&ads.rakuten_user_type=visitor&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.xumo_channelId=88883007&ads.xumo_channel_id=88883007&ads.xumo_contentId=2071&ads.xumo_contentName=FilmRiseUK&ads.xumo_ifa=e3dd2658-e93a-4cee-9d4b-27200826a904&ads.xumo_ifaType=ppid&ads.xumo_providerId=2071&ads.xumo_providerName=highway-to-heaven-eng-rakutentv&ads.xumo_streamId=88883007
+
+#EXTINF:-1 channel-id="108bd1c824eaca47592ec02c00f0a18a" tvg-id="108bd1c824eaca47592ec02c00f0a18a" tvg-chno="543" tvg-name="In The Heat of the Night" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/108bd1c824eaca47592ec02c00f0a18a/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747839494339_InTheHeatOfTheNight_HUDLogo_Centered_260x147.png",In The Heat of the Night
+https://jmp2.uk/rok-108bd1c824eaca47592ec02c00f0a18a.m3u8
+
+#EXTINF:-1 tvg-id="",Alfred Hitchcock
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814618/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814618&ads.xumo_streamId=88814618&declaredCC1Language=en&ads.caid=NBCUAlfredHitchcockPresents&ads.csid=tcl2_us_nbcualfredhitchcockpresents_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Horror%252CSci-Fi&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3937&ads.xumo_contentName=NBCUAlfredHitchcockPresents&ads.xumo_providerId=3937&ads.xumo_providerName=NBCUAlfredHitchcockPresents&ads.xumo_channelName=NBCUAlfredHitchcockPresents&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 tvg-id="",The Lone Ranger
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814620/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814620&ads.xumo_streamId=88814620&declaredCC1Language=en&ads.caid=NBCUTheLoneRanger&ads.csid=tcl2_us_nbcutheloneranger_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Western&ads._fw_content_category=IAB1-7&ads._fw_content_genre=television&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=3945&ads.xumo_contentName=NBCUTheLoneRanger&ads.xumo_providerId=3945&ads.xumo_providerName=NBCUTheLoneRanger&ads.xumo_channelName=NBCUTheLoneRanger&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 tvg-id="",US Only
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/9df051853cd44c209a0994cb2c55f604/playlist.m3u8?content_custom_1_param=64077f28030fa0382c69d6fc&cb=%7B%7Bcb%7D%7D&content_custom_2_param=GB&ip=%7B%7BipAddr%7D%7D&ua=%7B%7BUserAgent%7D%7D&dnt=%7B%7BDNT%7D%7D&app_bundle=%7B%7BappPackage%7D%7D&app_name=%7B%7BappName%7D%7D&app_store_url=%7B%7BAppStoreUrl%7D%7D&content_id=&content_episode=&content_title=&content_series=&content_genre=&content_livestream=1&rating=&channel_name=&language=&network_name=&did=%7B%7BDID%7D%7D&device_make=%7B%7BDeviceMake%7D%7D&device_model=%7B%7BDeviceModel%7D%7D&gdpr_consent=%7B%7BGdprConsent%7D%7D&gdpr=%7B%7BGdpr%7D%7D&us_privacy=%7B%7BUsPrivacy%7D%7D&coppa=%7B%7BCoppa%7D%7D
+
+#EXTINF:-1 channel-id="3580b15015379c4256440b0e119d46ed" tvg-id="3580b15015379c4256440b0e119d46ed" tvg-chno="629" tvg-name="America's Got Talent" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/3580b15015379c4256440b0e119d46ed/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1775265472400_AGT_HUD_260x147_CenterAligned.png",America's Got Talent
+https://jmp2.uk/rok-3580b15015379c4256440b0e119d46ed.m3u8
+
+#EXTINF:-1 tvg-id="",American Got Talent 2
+https://dbrb49pjoymg4.cloudfront.net/10001/99951457/hls/master.m3u8?ads.xumo_channelId=99951457&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=FremantleAmericasGotTalent&ads.csid=xumo_[PLATFORM]_FremantleAmericasGotTalent_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=4266&ads.xumo_contentName=FremantleAmericasGotTalent&ads.xumo_providerId=4266&ads.xumo_providerName=FremantleAmericasGotTalent&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99951457&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="",Just for Laughs Gags
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814545/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814545&ads.xumo_streamId=88814545&declaredCC1Language=en&ads.caid=JustForLaughsGags&ads.csid=tcl2_us_justforlaughsgags_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Comedy&ads._fw_content_category=IAB1-4&ads._fw_content_genre=humor&ads._fw_content_language=en&ads._fw_content_rating=tv-pg&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=146&ads.xumo_contentName=JustForLaughsGags&ads.xumo_providerId=146&ads.xumo_providerName=JustForLaughsGags&ads.xumo_channelName=JustForLaughsGags&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
+
+#EXTINF:-1 tvg-id="",just for laught gags 2
+https://dbrb49pjoymg4.cloudfront.net/10001/99991204/hls/master.m3u8?ads.xumo_channelId=99991204&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=JustForLaughsGags&ads.csid=xumo_[PLATFORM]_JustForLaughsGags_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=146&ads.xumo_contentName=JustForLaughsGags&ads.xumo_providerId=146&ads.xumo_providerName=JustForLaughsGags&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991204&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 
 
 
@@ -490,6 +582,16 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/46722.ts
 #EXTINF:-1 tvg-id="NatGeo.WILD.HDTV.(NGWILD).us" tvg-logo="https://docdog.top/Logotv/countries//natgeowild.png",NatGeo WILD
 #EXTINF:-1 tvg-id="Crime.and.Investigation.Network.HDTV.(CI.HD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/crime-and-investigation-us.png",Crime&Investigation
 
+#EXTINF:-1 tvg-id="" tvg-logo="",Real Wild
+https://lds-realwild-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-realwild-rakuten/CDN/master.m3u8?ads_amagi_channel_id=728&ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakutentv.web&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_categories=IAB1&ads_content_genre=animals%2Coutdoors&ads_content_livestream=0&ads_device_lmt=0&ads_device_make=chrome&ads_device_model=GENERIC&ads_device_type=web&ads_device_year=1970&ads_env=prod&ads_extra_eids=&ads_gam_correlator=283910008697892&ads_gdpr_consent=&ads_google_ad_manager_nonce=&ads_ifa_type=ppid&ads_inv_partner_domain=rakuten.tv&ads_ip=185.164.139.44&ads_market=uk&ads_network_name=RakutenTV&ads_os_language=&ads_placement=1&ads_player_height=1080&ads_player_width=1920&ads_pod_type=playerpage_midroll&ads_ppid=e3dd2658-e93a-4cee-9d4b-27200826a904&ads_prodq=1&ads_rating=0&ads_rtv_content_id=2914&ads_rtv_content_language=en&ads_rtvid=271858&ads_streaming_id=a4fb8ae6-ac1b-4eb2-b4d5-f64048b487de&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor
+
+
+
+
+
+#EXTINF:-1 tvg-id="a7a15769f0275c0ea9b2064b95637cfd" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a7a15769f0275c0ea9b2064b95637cfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1780318718470_MaydayAirDisaster_White_260x147.png",Mayday: Air Disaster
+https://jmp2.uk/rok-a7a15769f0275c0ea9b2064b95637cfd.m3u8
+
 #EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-logo="https://docdog.top/Logotv/countries//investigationdiscovery.png",Investigation Discovery
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/46810.ts
 
@@ -497,22 +599,25 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/46810.ts
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/121130.ts
 
 
-#EXTINF:-1 tvg-id="The.Discovery.Channel.HDTV.(East).(DSCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoverychannel.png",Discovery Channe
-#EXTINF:-1 tvg-id="Discovery.Family.Channel.HDTV.(DFCHD).us" tvg-logo="https://docdog.top/Logotv/countries//discoveryfamilychannel.png",Discovery Family
-#EXTINF:-1 tvg-id="Discovery.Life.Channel.(DLIF).us" tvg-logo="https://docdog.top/Logotv/countries//discoverylife.png",Discovery Life
-#EXTINF:-1 tvg-id="Magnolia.Network.HDTV.(MAGNOLIA).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/countrypic.png",Magnolia Network
-#EXTINF:-1 tvg-id="Home.and.Garden.Television.HDTV.(East).(HGTVD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/hgtv-us.png",HGTV
-#EXTINF:-1 tvg-id="FYI.HDTV.(FYIHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/fyi-us.png",FYI
-#EXTINF:-1 tvg-id="The.Learning.Channel.HDTV.(East).(TLCHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tlc-us.png",TLC
-#EXTINF:-1 tvg-id="Food.Network.HDTV.(East).(FOODHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/food-network-us.png",Food Network
-#EXTINF:-1 tvg-id="The.Cooking.Channel.HDTV.(COOKHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/cooking-channel-us.png",Cooking Channel
-#EXTINF:-1 tvg-id="TASTE.Tastemade.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/tastemade-us.png",Tastemade
 
 #EXTINF:-1 tvg-id="historychannel.us" tvg-logo="https://docdog.top/Logotv/countries//history.png",History
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/46724.ts
 
-#EXTINF:-1 tvg-id="a7a15769f0275c0ea9b2064b95637cfd" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/a7a15769f0275c0ea9b2064b95637cfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1780318718470_MaydayAirDisaster_White_260x147.png",Mayday: Air Disaster
-https://jmp2.uk/rok-a7a15769f0275c0ea9b2064b95637cfd.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="",History 2
+https://csm-e-nineext2au-eb.bln1.yospace.com/csm/extlive/nnaprd01,prod-fast-channels-history2-nsa.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="",Deal Zone
+https://ffb62e3d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX0RlYWxab25lX0hMUw/playlist.m3u8?ads.wurl_channel=1099&ads.wurl_name=DealZone&ads.coppa=0&ads.device_id=%7BDEVICE_ID%7D&ads.dnt=%7BDNT%7D&ads.us_privacy=%7BUS_PRIVACY%7D&ads.gdpr=%7BGDPR%7D&ads.consent=%7BCONSENT%7D&ads.app_name=%7BAPP_NAME%7D&ads.app_bundle=%7BAPP_BUNDLE%7D&ads.app_store_url=%7BAPP_STORE_URL%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.device_make=%7BDEVICE_MAKE%7D&ads.device_model=%7BDEVICE_MODEL%7D&ads.givn=%7BGIVN%7D&ads.u_paln=%7BU_PALN%7D
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="",Unxplained Zone
+https://b6a8df82.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYWEtdXNfVW5YcGxhaW5lZFpvbmVfSExT/playlist.m3u8?ads.wurl_channel=1018&ads.wurl_name=UnXplainedZone&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.language=&ads.rating=&ads.ic=&ads.channel_name=&ads.content_producer_name=&ads.content_genre=&ads.client_section=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10621
+
 
 
 
