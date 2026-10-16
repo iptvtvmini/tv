@@ -333,6 +333,8 @@ https://jmp2.uk/rok-2deae9b4e83550f88f6776c45df08315.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="",Wu Tang
 https://livechannel.mdc.akamaized.net/stitch/livechannel/1279/master.m3u8?channel=live_stream_1279
 
+#EXTINF:-1 tvg-id="" tvg-logo="",Hi Life
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=670a0fe52522596e22014d24&AV_CHANNEL_NAME=Hi-Life&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=TV-G&cb=MX_CACHEBUSTER&AV_APPPKGNAME=MX_APP_BUNDLE&AV_APPNAME=MX_APP_NAME&AV_APPSTOREURL=MX_APP_STORE_URL&AV_WIDTH=MX_WIDTH&AV_HEIGHT=MX_HEIGHT&AV_LANGUAGE=MX_DEVICE_LANGUAGE&AV_IFA_TYPE=MX_IFA_TYPE&AV_CATEGORY=IAB1-5&AV_TITLE=Hi-Life&AV_EPISODE=MX_CONTENT_EPISODE&AV_CONTENT_GENRE=Humanities&AV_GDPR=MX_GDPR&AV_CONSENT=MX_CONSENT&AV_COPPA=MX_COPPA&AV_IDFA=MX_IFA&AV_CCPA=MX_US_PRIVACY&AV_CONTENT_CHANNEL=Hi-Life&AV_USERAGENT=MX_USER_AGENT&AV_CUSTOM17=Google--520678__174__12810__0__0__0____MP&AV_CUSTOM18=MX_GIVN&AV_CUSTOM19=pn%3D2v2lTwj4%26context%3Dmid-12810
 
 #EXTINF:-1 channel-id="ed1ad60fa9a05f34bf5d4e8b09460d6b" tvg-id="ed1ad60fa9a05f34bf5d4e8b09460d6b" tvg-chno="393" tvg-name="About K-Content by CJ ENM" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/ed1ad60fa9a05f34bf5d4e8b09460d6b/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1665780149983_INFO_HUD_72dpi_copy.png",K-Content
 https://jmp2.uk/rok-ed1ad60fa9a05f34bf5d4e8b09460d6b.m3u8
@@ -447,6 +449,15 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814534/hls/master.m3u8?includeAsse
 #EXTINF:-1 tvg-id="",Free Action Movies
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814531/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814531&ads.xumo_streamId=88814531&declaredCC1Language=en&ads.caid=XumoFreeActionMovies&ads.csid=tcl2_us_xumofreeactionmovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Action&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeActionMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeActionMovies&ads.xumo_channelName=XumoFreeActionMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
+#EXTINF:-1 tvg-id="",Best Action TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=67594f7d55f6bc5a0e08f0e9&AV_CHANNEL_NAME=BEST-ACTION-TV&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=TV-PG&cb=MX_CACHEBUSTER&AV_APPPKGNAME=MX_APP_BUNDLE&AV_APPNAME=MX_APP_NAME&AV_APPSTOREURL=MX_APP_STORE_URL&AV_WIDTH=MX_WIDTH&AV_HEIGHT=MX_HEIGHT&AV_LANGUAGE=MX_DEVICE_LANGUAGE&AV_IFA_TYPE=MX_IFA_TYPE&AV_CATEGORY=IAB1-5&AV_TITLE=BEST-ACTION-TV&AV_EPISODE=MX_CONTENT_EPISODE&AV_CONTENT_GENRE=Action&AV_GDPR=MX_GDPR&AV_CONSENT=MX_CONSENT&AV_COPPA=MX_COPPA&AV_IDFA=MX_IFA&AV_CCPA=MX_US_PRIVACY&AV_CONTENT_CHANNEL=BEST-ACTION-TV&AV_CUSTOM17=Google--520678__86__6119__0__0__0____MP&AV_CUSTOM18=MX_GIVN&AV_CUSTOM19=pn%3D2v2lTwj4%26context%3Dmid-6119
+
+#EXTINF:-1 tvg-id="",Best Classic TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=6629bf5cc47c3644ef051208&AV_CHANNEL_NAME=BEST-CLASSIC-TV&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=TV-PG&cb=MX_CACHEBUSTER&AV_APPPKGNAME=MX_APP_BUNDLE&AV_APPNAME=MX_APP_NAME&AV_APPSTOREURL=MX_APP_STORE_URL&AV_WIDTH=MX_WIDTH&AV_HEIGHT=MX_HEIGHT&AV_LANGUAGE=MX_DEVICE_LANGUAGE&AV_IFA_TYPE=MX_IFA_TYPE&AV_CATEGORY=IAB1-5&AV_TITLE=BEST-CLASSIC-TV&AV_EPISODE=MX_CONTENT_EPISODE&AV_CONTENT_GENRE=Classic&AV_GDPR=MX_GDPR&AV_CONSENT=MX_CONSENT&AV_COPPA=MX_COPPA&AV_IDFA=MX_IFA&AV_CCPA=MX_US_PRIVACY&AV_CONTENT_CHANNEL=BEST-CLASSIC-TV&AV_CUSTOM17=Google--520678__86__6120__0__0__0____MP&AV_CUSTOM18=MX_GIVN&AV_CUSTOM19=pn%3D2v2lTwj4%26context%3Dmid-6120
+
+#EXTINF:-1 tvg-id="",Best Drama TV
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=662d394fd6bab84ec90108e9&AV_CHANNEL_NAME=BEST-DRAMA-TV&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=TV-PG&cb=MX_CACHEBUSTER&AV_APPPKGNAME=MX_APP_BUNDLE&AV_APPNAME=MX_APP_NAME&AV_APPSTOREURL=MX_APP_STORE_URL&AV_WIDTH=MX_WIDTH&AV_HEIGHT=MX_HEIGHT&AV_LANGUAGE=MX_DEVICE_LANGUAGE&AV_IFA_TYPE=MX_IFA_TYPE&AV_CATEGORY=IAB1-5&AV_TITLE=BEST-DRAMA-TV&AV_EPISODE=MX_CONTENT_EPISODE&AV_CONTENT_GENRE=Comedy&AV_GDPR=MX_GDPR&AV_CONSENT=MX_CONSENT&AV_COPPA=MX_COPPA&AV_IDFA=MX_IFA&AV_CCPA=MX_US_PRIVACY&AV_CONTENT_CHANNEL=BEST-DRAMA-TV&AV_CUSTOM17=Google--520678__86__6121__0__0__0____MP&AV_CUSTOM18=MX_GIVN&AV_CUSTOM19=pn%3D2v2lTwj4%26context%3Dmid-6121
+
 #EXTINF:-1 tvg-id="",Free Comedy Movies
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814527/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=88814527&ads.xumo_streamId=88814527&declaredCC1Language=en&ads.caid=XumoFreeComedyMovies&ads.csid=tcl2_us_xumofreecomedymovies_ssai&ads.xumo_ifaType=%5BIFA_TYPE%5D&ads.xumo_ifa=%5BIFA%5D&ads.appName=%5BAPP_NAME%5D&ads.appVersion=%5BAPP_VERSION%5D&ads._fw_app_bundle=%5BTCL_APP_BUNDLE%5D&ads.genre=Comedy&ads._fw_content_category=IAB1-5&ads._fw_content_genre=movies&ads._fw_content_language=en&ads._fw_content_rating=mpaa-r&ads._fw_deviceMake=%5BDEVICE_MAKE%5D&ads._fw_device_model=%5BDEVICE_MODEL%5D&ads._fw_devicetype=3-Connected_TV&ads._fw_coppa=0&ads._fw_is_lat=%5BLMT%5D&ads._fw_us_privacy=%5BUS_PRIVACY%5D&ads._fw_h_x_country=US&ads._fw_player_width=%5BPLAYER_WIDTH%5D&ads._fw_player_height=%5BPLAYER_HEIGHT%5D&ads.xumo_contentId=5&ads.xumo_contentName=XumoFreeComedyMovies&ads.xumo_providerId=5&ads.xumo_providerName=XumoFreeComedyMovies&ads.xumo_channelName=XumoFreeComedyMovies&ads._fw_app_store_url=%5BTCL_APP_STORE_URL%5D
 
@@ -511,8 +522,8 @@ https://newidco-rakutenviki-2-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="",Rakuten Viki US
 https://f7178a01312d4c388fe6afbc9f8bf557.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vidaa-us_RakutenViki/playlist.m3u8?ads.wurl_channel=843&ads.wurl_name=RakutenViki&ads.coppa=0&ads.ifa=&ads.dnt=&ads.us_privacy=&ads.gdpr=&ads.gdpr_consent=&ads.app_name=&ads.app_bundle=&ads.app_store_url=&ads.ifa_type=&ads.custom=&ads.device_make=&ads.device_model=&ads.vidaa_ads_param=1190406319&ads.vauth=&ads.device_type=&ads.brand_name=&ads.device_osv=&ads.device_language=&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=8541
 
-
-
+#EXTINF:-1 tvg-id="",Bollywood 4U
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=662d478697460fa7f5068941&AV_CHANNEL_NAME=BOLLYWOOD4U&AV_CONTENT_LANGUAGE=hi&AV_CONTENT_RATING=TV-PG&cb=MX_CACHEBUSTER&AV_APPPKGNAME=MX_APP_BUNDLE&AV_APPNAME=MX_APP_NAME&AV_APPSTOREURL=MX_APP_STORE_URL&AV_WIDTH=MX_WIDTH&AV_HEIGHT=MX_HEIGHT&AV_LANGUAGE=MX_DEVICE_LANGUAGE&AV_IFA_TYPE=MX_IFA_TYPE&AV_CATEGORY=IAB1-5&AV_TITLE=BOLLYWOOD4U&AV_EPISODE=MX_CONTENT_EPISODE&AV_CONTENT_GENRE=Classic&AV_GDPR=MX_GDPR&AV_CONSENT=MX_CONSENT&AV_COPPA=MX_COPPA&AV_IDFA=MX_IFA&AV_CCPA=MX_US_PRIVACY&AV_CONTENT_CHANNEL=BOLLYWOOD4U&AV_CUSTOM17=Google--520678__86__10870__0__0__0____MP&AV_CUSTOM18=MX_GIVN&AV_CUSTOM19=pn%3D2v2lTwj4%26context%3Dmid-10870
 
 
 
@@ -560,7 +571,8 @@ https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="" tvg-logo="",Chaos on Cam
 https://amg00276-amg00276c25-vidaa-us-11221.playouts.now.amagi.tv/ts-us-w2-n1/playlist/amg00276-aetelevisionnetworksfast-chaoscam-vidaaus/playlist.m3u8?ads.dnt=REPLACEME&ads.app_bundle=REPLACEME&ads.brand_name=REPLACEME&ads.ifa=REPLACEME&ads.ifa_type=REPLACEME&ads.vauth=REPLACEME&ads.device_type=REPLACEME&ads.device_country=REPLACEME&ads.device_language=REPLACEME&ads.device_osv=REPLACEME&ads.app_name=REPLACEME&ads.app_store_url=REPLACEME&ads.us_privacy=REPLACEME&ads.gdpr=REPLACEME&ads.gdpr_consent=REPLACEME&ads.w=REPLACEME&ads.h=REPLACEME&ads.vidaa_ads_param=1190602996&ads.vidaa_ads_contentType=600007&ads.vidaa_ads_contentId=10686
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="",Nautical Channel
+https://ssai.aniview.com/api/v1/hls/stream.m3u8?AVS_SSAIID=66d13a78b96ea90e8c0d44a8&AV_CHANNEL_NAME=NAUTICAL-CHANNEL&AV_CONTENT_LANGUAGE=en&AV_CONTENT_RATING=TV-G&cb=MX_CACHEBUSTER&AV_APPPKGNAME=MX_APP_BUNDLE&AV_APPNAME=MX_APP_NAME&AV_APPSTOREURL=MX_APP_STORE_URL&AV_WIDTH=MX_WIDTH&AV_HEIGHT=MX_HEIGHT&AV_LANGUAGE=MX_DEVICE_LANGUAGE&AV_IFA_TYPE=MX_IFA_TYPE&AV_CATEGORY=IAB17-31&AV_TITLE=NAUTICAL-CHANNEL&AV_EPISODE=MX_CONTENT_EPISODE&AV_CONTENT_GENRE=Nautical&AV_GDPR=MX_GDPR&AV_CONSENT=MX_CONSENT&AV_COPPA=MX_COPPA&AV_IDFA=MX_IFA&AV_CCPA=MX_US_PRIVACY&AV_CONTENT_CHANNEL=NAUTICAL-CHANNEL&AV_CUSTOM17=Google--520678__86__12922__0__0__0____MP&AV_CUSTOM18=MX_GIVN&AV_CUSTOM19=pn%3D2v2lTwj4%26context%3Dmid-12922
 
 #EXTINF:-1 tvg-id="Animal.Planet.HDTV.(East).(APHD).us" tvg-logo="https://docdog.top/Logotv/countries//animalplanet.png",Animal Planet
 
