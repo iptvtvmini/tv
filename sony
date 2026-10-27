@@ -252,15 +252,14 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/46685.ts
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/20194.ts
 
 
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png",Game Show Network
+https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8
 
 #EXTINF:-1 tvg-id="gameshownetwork.ca" tvg-logo="https://docdog.top/Logotv/countries/united-states/game-show-network-us.png",Game Show Network
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/57430.ts
 
 #EXTINF:-1 tvg-id="673411" tvg-logo="https://canvas-lb.tubitv.com/opts/ZiXULUiKSeFNHQ==/6f7f3b3f-a050-4254-82eb-2c705dab77a6/CHgQeDoFMS4xLjlAAQ==",Game Show Central
 https://live-manifest.production-public.tubi.io/live/94afd871-77af-49a7-b040-10b1a9cbcddd/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id=="23427355f7f35851b75a210d7cca22a4" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/23427355f7f35851b75a210d7cca22a4/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1683068649411_CNG_Roku_HUD_Center.png",Celebrity Name Game
 https://jmp2.uk/rok-23427355f7f35851b75a210d7cca22a4.m3u8
@@ -275,7 +274,8 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991232/hls/master.m3u8?includeAsset
 #EXTINF:-1 tvg-id="",25 Word
 https://dbrb49pjoymg4.cloudfront.net/10001/99991659/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991659&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=GameShowAGoGo&ads.csid=xumo_[PLATFORM]_GameShowAGoGo_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=GameShow,Game,Quiz,QG,QP,Entertainment&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2775&ads.xumo_contentName=GameShowAGoGo&ads.xumo_providerId=2775&ads.xumo_providerName=GameShowAGoGo&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991659&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
 
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9EWffqx.png",Impossible Quiz Show
+https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="GameTV.(GTV).ca" tvg-name="GameTV (GTV)" tvg-logo="http://5.44.253.151:80/images/86a43a112f1c64b381ae76c3a1040da8.png" group-title="",Game TV
@@ -326,9 +326,6 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/10252.ts
 
 #EXTINF:-1 tvg-id="HiYAH.us@SD",Hi-Yah
 https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
-
-#EXTINF:-1 channel-id="2deae9b4e83550f88f6776c45df08315" tvg-id="2deae9b4e83550f88f6776c45df08315" tvg-chno="290" tvg-name="Hi-YAH!" tvg-logo="https://images.sr.roku.com/idType/roku-trc/context/trc/id/2deae9b4e83550f88f6776c45df08315/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1669078606058_Hi-YAH_260x147.png",Hi-YAH!
-https://jmp2.uk/rok-2deae9b4e83550f88f6776c45df08315.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="",Wu Tang
 https://livechannel.mdc.akamaized.net/stitch/livechannel/1279/master.m3u8?channel=live_stream_1279
@@ -485,7 +482,32 @@ http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/9265.ts
 #EXTINF:-1 tvg-id="sony.us" tvg-logo="https://docdog.top/Logotv/countries/uk/sonymoviechannel.png",Sony Movie
 http://fortv.cc:8080/live/cliff.kutney@rogers.com/Qr42PWjQPb/2214.ts
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bZWoDTg.png" group-title="United States",Cine Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/960px-Cinemax_2016.svg.png",Cinemax
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/960px-Cinemax_Classics_Logo.png",5 STARMAX
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Cinemax_Hits_Logo.png/960px-Cinemax_Hits_Logo.png",MoreMax
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N7oSm4d.png",Starz West
+http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JpKvjZe.png",Starz Comedy
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eE9FzEP.png",Starz Kids & Family
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Showtime_Family_Zone.svg/960px-Showtime_Family_Zone.svg.png",Showtime Family Zone
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 
 
 
@@ -624,11 +646,90 @@ https://b6a8df82.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VmlkYW
 
 
 
+#EXTINF:-1 tvg-id="aande.us" tvg-logo="https://docdog.top/Logotv/countries//A&E.jpg",A&E
+http://23.239.31.26:8989/aande/index.m3u8
+
+#EXTINF:-1 tvg-id="amc.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/amc-us.png",AMC
+http://23.239.31.26:8989/amc/index.m3u8
+
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-logo="https://docdog.top/Logotv/countries/bbcamerica.png",BBC America
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+
+#EXTINF:-1 tvg-id="syfy.us" tvg-logo="https://docdog.top/Logotv/countries/united-states/syfy-us.png",Syfy
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bQdkyF9.png",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/960px-TruTV_2014.svg.png",truTV
+http://23.237.104.106:8080/USA_TRUTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208138.png",Maxcine
+https://live20.bozztv.com/giatvplayout7/giatv-208138/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/209163.png",Maxcine 2
+https://live20.bozztv.com/giatvplayout7/giatv-209163/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208730.png",Maxcine Comedy
+https://live20.bozztv.com/giatvplayout7/giatv-208730/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208817.png",Maxcine Family
+https://live20.bozztv.com/giatvplayout7/giatv-208817/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/209909.png",Maxcine Kids
+https://live20.bozztv.com/giatvplayout7/giatv-209909/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UNZ8bef.png",NHL Network
+https://nhl-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/736QREy.png",Pac-12
+https://pac12-firetv.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/960px-SEC_Network_logo.svg.png",SEC Network
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhIwUcQ.png",WSN
+https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png",Yes Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png",National Geographic
+http://198.58.104.90:8989/natgeo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png",National Geographic Wild
+http://198.58.104.90:8989/natgeowild/index.m3u8
 
 
 
 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CiA3plN.png",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PVt8OPN.png",MBC 3
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RRc23ra.png",MBC America
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/624ff8f9-db18-da92-4d42-896fa2ff3eb3/source/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g5PWnqp.png",MBC Drama
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama-usa/ea2f5db904aff224b7066e59c7f585a2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o2elx0u.png",MBC Masr
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-usa/cd8d40acdab28aac0582faa3bd3983f1/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KT4tdQs.png",Nick Jr
+http://212.5.144.156:8080/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png",Nickelodeon
+http://198.58.104.90:8989/nickelodeon/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/654ca7f92c1d3300086b608c/colorLogoPNG_1751457678592.png",Nicktoons
+http://41.205.93.154/NICKTOONS/index.m3u8
 
 
 
